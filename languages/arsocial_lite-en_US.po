@@ -1,0 +1,4160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ARSocial Lite v1.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-06-03 10:12:54+0000\n"
+"Last-Translator: admin <testrepute1234@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: core/classes/class.ars_fan_counter.php:44
+#: core/classes/class.ars_like.php:38
+#@ arsocial_lite
+msgid "No any shortcode selected."
+msgstr "No any shortcode selected."
+
+#: core/classes/class.ars_fan_counter.php:58
+#: core/classes/class.ars_like.php:67
+#@ arsocial_lite
+msgid "Network is Invalid. Please select valid Network"
+msgstr "Network is Invalid. Please select valid Network"
+
+#: core/classes/class.ars_fan_counter.php:386
+#: core/classes/class.ars_fan_counter.php:397
+#: core/classes/class.ars_fan_counter.php:551
+#: core/classes/class.ars_like.php:204
+#: core/classes/class.ars_like.php:215
+#: core/classes/class.ars_like.php:352
+#: core/classes/class.ars_locker.php:200
+#: core/classes/class.ars_locker.php:210
+#: core/classes/class.ars_share.php:1195
+#: core/classes/class.ars_share.php:1629
+#: core/classes/class.ars_share.php:1638
+#: core/views/ars_global_setting.php:72
+#@ arsocial_lite
+msgid "Settings Saved Successfully."
+msgstr "Settings Saved Successfully."
+
+#: core/classes/class.ars_fan_counter.php:566
+#: core/classes/class.ars_like.php:367
+#@ arsocial_lite
+msgid "Please Select valid setup id."
+msgstr "Please Select valid setup id."
+
+#: core/classes/class.ars_fan_counter.php:578
+#: core/classes/class.ars_like.php:379
+#@ arsocial_lite
+msgid "Could not delete setup."
+msgstr "Could not delete setup."
+
+#: core/classes/class.ars_locker.php:41
+#: core/classes/class.ars_locker.php:59
+#: core/views/ars_front_locker.php:13
+#@ arsocial_lite
+msgid "Locker ID is empty or Invalid. Please select valid Locker ID"
+msgstr "Locker ID is empty or Invalid. Please select valid Locker ID"
+
+#: core/classes/class.ars_locker.php:74
+#@ arsocial_lite
+msgid "Something went wrong while save locker"
+msgstr "Something went wrong while save locker"
+
+#: core/classes/class.ars_locker.php:380
+#@ arsocial_lite
+msgid "Please Select valid locker id."
+msgstr "Please Select valid locker id."
+
+#: core/classes/class.ars_locker.php:392
+#@ arsocial_lite
+msgid "Could not delete locker."
+msgstr "Could not delete locker."
+
+#: core/classes/class.ars_locker.php:472
+#@ arsocial_lite
+msgid "There is an error while connecting twitter, Please try again later."
+msgstr "There is an error while connecting twitter, Please try again later."
+
+#: core/classes/class.ars_locker.php:740
+#@ arsocial_lite
+msgid "Settings Saved Successfully"
+msgstr "Settings Saved Successfully"
+
+#: core/classes/class.ars_share.php:82
+#@ arsocial_lite
+msgid "No any network selected"
+msgstr "No any network selected"
+
+#: core/classes/class.ars_share.php:230
+#@ arsocial_lite
+msgid "Invalid Network ID"
+msgstr "Invalid Network ID"
+
+#: core/classes/class.ars_share.php:1097
+#@ arsocial_lite
+msgid "Please Enter Network"
+msgstr "Please Enter Network"
+
+#: core/classes/class.ars_share.php:1107
+#@ arsocial_lite
+msgid "Network Updated Successfully"
+msgstr "Network Updated Successfully"
+
+#: core/classes/class.ars_share.php:1122
+#@ arsocial_lite
+msgid "Could not update network"
+msgstr "Could not update network"
+
+#: core/classes/class.ars_share.php:1137
+#@ arsocial_lite
+msgid "Selected Network(s) successfully deactivated."
+msgstr "Selected Network(s) successfully deactivated."
+
+#: core/classes/class.ars_share.php:1152
+#@ arsocial_lite
+msgid "Selected Network(s) successfully activated."
+msgstr "Selected Network(s) successfully activated."
+
+#: core/classes/class.ars_share.php:1165
+#@ arsocial_lite
+msgid "Theme Updated successfully"
+msgstr "Theme Updated successfully"
+
+#: core/views/ars_fan_analytics.php:26
+#: core/views/ars_locker_analytics.php:25
+#: core/views/ars_share_analytics.php:26
+#@ arsocial_lite
+msgid "Social Analytics"
+msgstr "Social Analytics"
+
+#: core/views/ars_fan_analytics.php:28
+#: core/views/ars_fan_counter.php:78
+#: core/views/ars_fan_counter_setting.php:96
+#: core/views/ars_like.php:67
+#: core/views/ars_like_setting.php:53
+#: core/views/ars_locker.php:107
+#: core/views/ars_locker_analytics.php:27
+#: core/views/ars_locker_setting.php:89
+#: core/views/ars_share.php:109
+#: core/views/ars_share_analytics.php:28
+#: core/views/ars_share_setting.php:108
+#: core/views/ars_shortcode.php:130
+#@ arsocial_lite
+msgid "Need help?"
+msgstr "Need help?"
+
+#: core/views/ars_fan_analytics.php:32
+#: core/views/ars_locker_analytics.php:31
+#: core/views/ars_share_analytics.php:33
+#@ arsocial_lite
+msgid "Share Analytics"
+msgstr "Share Analytics"
+
+#: core/views/ars_fan_analytics.php:33
+#: core/views/ars_locker_analytics.php:32
+#: core/views/ars_share_analytics.php:34
+#@ arsocial_lite
+msgid "Fan Counter Analytics"
+msgstr "Fan Counter Analytics"
+
+#: core/views/ars_fan_analytics.php:34
+#: core/views/ars_locker_analytics.php:33
+#: core/views/ars_share_analytics.php:35
+#@ arsocial_lite
+msgid "Locker Analytics"
+msgstr "Locker Analytics"
+
+#: core/views/ars_fan_analytics.php:44
+#: core/views/ars_fan_counter.php:917
+#: core/views/ars_fan_counter_setting.php:2004
+#: core/views/ars_global_setting.php:582
+#: core/views/ars_like.php:756
+#: core/views/ars_like_setting.php:1504
+#: core/views/ars_locker.php:562
+#: core/views/ars_locker_analytics.php:43
+#: core/views/ars_locker_setting.php:778
+#: core/views/ars_share.php:768
+#: core/views/ars_share_analytics.php:47
+#: core/views/ars_share_setting.php:2435
+#: core/views/ars_shortcode.php:313
+#@ arsocial_lite
+msgid "Upgrade To Premium Version."
+msgstr "Upgrade To Premium Version."
+
+#: core/views/ars_fan_analytics.php:45
+#: core/views/ars_fan_counter.php:918
+#: core/views/ars_fan_counter_setting.php:2005
+#: core/views/ars_global_setting.php:583
+#: core/views/ars_like.php:757
+#: core/views/ars_like_setting.php:1505
+#: core/views/ars_locker.php:563
+#: core/views/ars_locker_analytics.php:44
+#: core/views/ars_locker_setting.php:779
+#: core/views/ars_share.php:769
+#: core/views/ars_share_analytics.php:48
+#: core/views/ars_share_setting.php:2436
+#: core/views/ars_shortcode.php:314
+#@ arsocial_lite
+msgid "To unlock this Feature, Buy Premium Version for $20.00 Only."
+msgstr "To unlock this Feature, Buy Premium Version for $20.00 Only."
+
+#: core/views/ars_fan_analytics.php:47
+#: core/views/ars_fan_counter.php:920
+#: core/views/ars_fan_counter_setting.php:2007
+#: core/views/ars_global_setting.php:585
+#: core/views/ars_like.php:759
+#: core/views/ars_like_setting.php:1507
+#: core/views/ars_locker.php:565
+#: core/views/ars_locker_analytics.php:46
+#: core/views/ars_locker_setting.php:781
+#: core/views/ars_share.php:771
+#: core/views/ars_share_analytics.php:50
+#: core/views/ars_share_setting.php:2438
+#: core/views/ars_shortcode.php:316
+#@ arsocial_lite
+msgid "Buy Now"
+msgstr "Buy Now"
+
+#: core/views/ars_fan_counter.php:32
+#: core/views/ars_fan_counter_setting.php:52
+#: core/views/ars_like.php:30
+#: core/views/ars_like_setting.php:18
+#: core/views/ars_locker.php:39
+#: core/views/ars_locker_setting.php:29
+#@ arsocial_lite
+msgid "Please configure facebook api settings in general settings"
+msgstr "Please configure facebook api settings in general settings"
+
+#: core/views/ars_fan_counter.php:39
+#: core/views/ars_fan_counter_setting.php:59
+#: core/views/ars_like.php:37
+#: core/views/ars_like_setting.php:25
+#: core/views/ars_locker.php:50
+#: core/views/ars_locker_setting.php:40
+#@ arsocial_lite
+msgid "Please configure twitter api settings in general settings"
+msgstr "Please configure twitter api settings in general settings"
+
+#: core/views/ars_fan_counter.php:47
+#: core/views/ars_fan_counter_setting.php:66
+#: core/views/ars_locker.php:60
+#: core/views/ars_locker_setting.php:50
+#@ arsocial_lite
+msgid "Please configure linkedin api settings in general settings"
+msgstr "Please configure linkedin api settings in general settings"
+
+#: core/views/ars_fan_counter.php:61
+#: core/views/ars_fan_counter.php:76
+#: core/views/ars_fan_counter_setting.php:80
+#: core/views/ars_fan_counter_setting.php:90
+#@ arsocial_lite
+msgid "Social Fan Counter Configuration"
+msgstr "Social Fan Counter Configuration"
+
+#: core/views/ars_fan_counter.php:64
+#: core/views/ars_like.php:51
+#: core/views/ars_locker.php:82
+#: core/views/ars_share.php:753
+#@ arsocial_lite
+msgid "Click to copy"
+msgstr "Click to copy"
+
+#: core/views/ars_fan_counter.php:65
+#: core/views/ars_like.php:52
+#: core/views/ars_locker.php:83
+#: core/views/ars_share.php:754
+#: core/views/ars_shortcode.php:189
+#@ arsocial_lite
+msgid "Copied"
+msgstr "Copied"
+
+#: core/views/ars_fan_counter.php:70
+#: core/views/ars_fan_counter.php:904
+#: core/views/ars_fan_counter_setting.php:83
+#: core/views/ars_fan_counter_setting.php:1995
+#: core/views/ars_global_setting.php:570
+#: core/views/ars_like.php:57
+#: core/views/ars_like.php:745
+#: core/views/ars_like_setting.php:40
+#: core/views/ars_like_setting.php:1494
+#: core/views/ars_locker.php:88
+#: core/views/ars_locker.php:552
+#: core/views/ars_locker_setting.php:77
+#: core/views/ars_locker_setting.php:769
+#: core/views/ars_share.php:741
+#: core/views/ars_share.php:759
+#: core/views/ars_share_setting.php:2414
+#: core/views/ars_share_setting.php:2425
+#@ arsocial_lite
+msgid "Save"
+msgstr "Save"
+
+#: core/views/ars_fan_counter.php:71
+#: core/views/ars_fan_counter.php:906
+#: core/views/ars_like.php:58
+#: core/views/ars_like.php:746
+#: core/views/ars_locker.php:89
+#: core/views/ars_locker.php:553
+#: core/views/ars_share.php:742
+#: core/views/ars_share.php:760
+#: core/views/ars_shortcode.php:213
+#@ arsocial_lite
+msgid "Cancel"
+msgstr "Cancel"
+
+#: core/views/ars_fan_counter.php:89
+#@ arsocial_lite
+msgid " Select Position Where You Want To Display Fan Counter"
+msgstr " Select Position Where You Want To Display Fan Counter"
+
+#: core/views/ars_fan_counter.php:105
+#: core/views/ars_like.php:93
+#: core/views/ars_share.php:128
+#@ arsocial_lite
+msgid "Pages"
+msgstr "Pages"
+
+#: core/views/ars_fan_counter.php:125
+#: core/views/ars_share.php:154
+#@ arsocial_lite
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: core/views/ars_fan_counter.php:143
+#: core/views/ars_share.php:161
+#@ arsocial_lite
+msgid "Top / Bottom Bar"
+msgstr "Top / Bottom Bar"
+
+#: core/views/ars_fan_counter.php:176
+#: core/views/ars_like.php:134
+#: core/views/ars_share.php:168
+#@ arsocial_lite
+msgid "Popup"
+msgstr "Popup"
+
+#: core/views/ars_fan_counter.php:176
+#: core/views/ars_fan_counter.php:784
+#: core/views/ars_fan_counter.php:871
+#: core/views/ars_fan_counter_setting.php:1562
+#: core/views/ars_fan_counter_setting.php:1872
+#: core/views/ars_fan_counter_setting.php:1878
+#: core/views/ars_fan_counter_setting.php:1964
+#: core/views/ars_global_setting.php:240
+#: core/views/ars_global_setting.php:260
+#: core/views/ars_global_setting.php:298
+#: core/views/ars_global_setting.php:326
+#: core/views/ars_like.php:134
+#: core/views/ars_like.php:607
+#: core/views/ars_like.php:706
+#: core/views/ars_like_setting.php:1112
+#: core/views/ars_like_setting.php:1379
+#: core/views/ars_like_setting.php:1385
+#: core/views/ars_like_setting.php:1461
+#: core/views/ars_locker.php:137
+#: core/views/ars_locker.php:423
+#: core/views/ars_locker.php:520
+#: core/views/ars_locker_setting.php:116
+#: core/views/ars_locker_setting.php:173
+#: core/views/ars_locker_setting.php:206
+#: core/views/ars_locker_setting.php:223
+#: core/views/ars_locker_setting.php:565
+#: core/views/ars_locker_setting.php:740
+#: core/views/ars_share.php:168
+#: core/views/ars_share.php:551
+#: core/views/ars_share.php:707
+#: core/views/ars_share_setting.php:1892
+#: core/views/ars_share_setting.php:2289
+#: core/views/ars_share_setting.php:2296
+#: core/views/ars_share_setting.php:2303
+#: core/views/ars_share_setting.php:2383
+#@ arsocial_lite
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: core/views/ars_fan_counter.php:183
+#: core/views/ars_fan_counter_setting.php:103
+#: core/views/ars_like.php:143
+#: core/views/ars_like_setting.php:60
+#: core/views/ars_locker.php:153
+#: core/views/ars_locker_setting.php:240
+#: core/views/ars_share.php:177
+#: core/views/ars_share_setting.php:129
+#@ arsocial_lite
+msgid "Select Networks"
+msgstr "Select Networks"
+
+#: core/views/ars_fan_counter.php:185
+#: core/views/ars_fan_counter_setting.php:105
+#: core/views/ars_like.php:145
+#: core/views/ars_like_setting.php:63
+#: core/views/ars_locker.php:174
+#: core/views/ars_locker_setting.php:261
+#: core/views/ars_locker_setting.php:662
+#: core/views/ars_share.php:179
+#: core/views/ars_share_setting.php:132
+#@ arsocial_lite
+msgid "Please select atleast one network."
+msgstr "Please select atleast one network."
+
+#: core/views/ars_fan_counter.php:193
+#: core/views/ars_fan_counter_setting.php:114
+#: core/views/ars_global_setting.php:89
+#: core/views/ars_like.php:155
+#: core/views/ars_like_setting.php:73
+#: core/views/ars_locker.php:296
+#: core/views/ars_locker_setting.php:440
+#@ arsocial_lite
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/views/ars_fan_counter.php:202
+#: core/views/ars_fan_counter_setting.php:125
+#@ arsocial_lite
+msgid "Profile Id"
+msgstr "Profile Id"
+
+#: core/views/ars_fan_counter.php:208
+#: core/views/ars_fan_counter.php:352
+#: core/views/ars_fan_counter_setting.php:131
+#: core/views/ars_fan_counter_setting.php:279
+#@ arsocial_lite
+msgid "Profile Type"
+msgstr "Profile Type"
+
+#: core/views/ars_fan_counter.php:227
+#: core/views/ars_fan_counter.php:289
+#: core/views/ars_fan_counter.php:346
+#: core/views/ars_fan_counter_setting.php:150
+#: core/views/ars_fan_counter_setting.php:214
+#: core/views/ars_fan_counter_setting.php:273
+#: core/views/ars_global_setting.php:111
+#: core/views/ars_global_setting.php:192
+#: core/views/ars_global_setting.php:267
+#@ arsocial_lite
+msgid "Access Token"
+msgstr "Access Token"
+
+#: core/views/ars_fan_counter.php:233
+#: core/views/ars_fan_counter.php:301
+#: core/views/ars_fan_counter.php:371
+#: core/views/ars_fan_counter_setting.php:156
+#: core/views/ars_fan_counter_setting.php:226
+#: core/views/ars_fan_counter_setting.php:298
+#@ arsocial_lite
+msgid "Manual Counter"
+msgstr "Manual Counter"
+
+#: core/views/ars_fan_counter.php:239
+#: core/views/ars_fan_counter.php:307
+#: core/views/ars_fan_counter.php:377
+#: core/views/ars_fan_counter_setting.php:162
+#: core/views/ars_fan_counter_setting.php:232
+#: core/views/ars_fan_counter_setting.php:304
+#@ arsocial_lite
+msgid "Fan Text"
+msgstr "Fan Text"
+
+#: core/views/ars_fan_counter.php:245
+#@ arsocial_lite
+msgid "Enable Like Button"
+msgstr "Enable Like Button"
+
+#: core/views/ars_fan_counter.php:247
+#: core/views/ars_fan_counter.php:316
+#: core/views/ars_fan_counter.php:385
+#: core/views/ars_fan_counter.php:789
+#: core/views/ars_fan_counter.php:804
+#: core/views/ars_fan_counter_setting.php:170
+#: core/views/ars_fan_counter_setting.php:241
+#: core/views/ars_fan_counter_setting.php:312
+#: core/views/ars_fan_counter_setting.php:1042
+#: core/views/ars_fan_counter_setting.php:1502
+#: core/views/ars_fan_counter_setting.php:1813
+#: core/views/ars_global_setting.php:364
+#: core/views/ars_global_setting.php:521
+#: core/views/ars_global_setting.php:534
+#: core/views/ars_global_setting.php:547
+#: core/views/ars_global_setting.php:561
+#: core/views/ars_like.php:253
+#: core/views/ars_like.php:282
+#: core/views/ars_like.php:290
+#: core/views/ars_like.php:316
+#: core/views/ars_like.php:454
+#: core/views/ars_like.php:546
+#: core/views/ars_like.php:612
+#: core/views/ars_like_setting.php:171
+#: core/views/ars_like_setting.php:199
+#: core/views/ars_like_setting.php:207
+#: core/views/ars_like_setting.php:233
+#: core/views/ars_like_setting.php:456
+#: core/views/ars_like_setting.php:608
+#: core/views/ars_like_setting.php:651
+#: core/views/ars_like_setting.php:850
+#: core/views/ars_like_setting.php:1011
+#: core/views/ars_like_setting.php:1049
+#: core/views/ars_like_setting.php:1209
+#: core/views/ars_like_setting.php:1327
+#: core/views/ars_locker.php:201
+#: core/views/ars_locker.php:418
+#: core/views/ars_locker_setting.php:138
+#: core/views/ars_locker_setting.php:168
+#: core/views/ars_locker_setting.php:201
+#: core/views/ars_locker_setting.php:218
+#: core/views/ars_locker_setting.php:285
+#: core/views/ars_locker_setting.php:353
+#: core/views/ars_locker_setting.php:381
+#: core/views/ars_locker_setting.php:390
+#: core/views/ars_locker_setting.php:417
+#: core/views/ars_locker_setting.php:560
+#: core/views/ars_locker_setting.php:718
+#: core/views/ars_share.php:340
+#: core/views/ars_share.php:429
+#: core/views/ars_share.php:484
+#: core/views/ars_share.php:556
+#: core/views/ars_share.php:571
+#: core/views/ars_share_setting.php:298
+#: core/views/ars_share_setting.php:315
+#: core/views/ars_share_setting.php:343
+#: core/views/ars_share_setting.php:557
+#: core/views/ars_share_setting.php:606
+#: core/views/ars_share_setting.php:722
+#: core/views/ars_share_setting.php:883
+#: core/views/ars_share_setting.php:923
+#: core/views/ars_share_setting.php:980
+#: core/views/ars_share_setting.php:1011
+#: core/views/ars_share_setting.php:1173
+#: core/views/ars_share_setting.php:1369
+#: core/views/ars_share_setting.php:1386
+#: core/views/ars_share_setting.php:1427
+#: core/views/ars_share_setting.php:1669
+#: core/views/ars_share_setting.php:1686
+#: core/views/ars_share_setting.php:1728
+#: core/views/ars_share_setting.php:1841
+#: core/views/ars_share_setting.php:2010
+#: core/views/ars_share_setting.php:2052
+#: core/views/ars_share_setting.php:2121
+#: core/views/ars_share_setting.php:2231
+#@ arsocial_lite
+msgid "Yes"
+msgstr "Yes"
+
+#: core/views/ars_fan_counter.php:262
+#: core/views/ars_fan_counter_setting.php:185
+#: core/views/ars_global_setting.php:172
+#: core/views/ars_locker.php:319
+#: core/views/ars_locker_setting.php:463
+#@ arsocial_lite
+msgid "Twitter"
+msgstr "Twitter"
+
+#: core/views/ars_fan_counter.php:271
+#: core/views/ars_fan_counter_setting.php:196
+#: core/views/ars_like.php:273
+#: core/views/ars_like_setting.php:190
+#@ arsocial_lite
+msgid "Username"
+msgstr "Username"
+
+#: core/views/ars_fan_counter.php:277
+#: core/views/ars_fan_counter_setting.php:202
+#: core/views/ars_global_setting.php:176
+#@ arsocial_lite
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: core/views/ars_fan_counter.php:283
+#: core/views/ars_fan_counter_setting.php:208
+#: core/views/ars_global_setting.php:186
+#@ arsocial_lite
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: core/views/ars_fan_counter.php:295
+#: core/views/ars_fan_counter_setting.php:220
+#@ arsocial_lite
+msgid "Access Token Secret"
+msgstr "Access Token Secret"
+
+#: core/views/ars_fan_counter.php:313
+#@ arsocial_lite
+msgid "Enable Follow Button"
+msgstr "Enable Follow Button"
+
+#: core/views/ars_fan_counter.php:331
+#: core/views/ars_fan_counter_setting.php:256
+#: core/views/ars_locker.php:342
+#: core/views/ars_locker_setting.php:486
+#@ arsocial_lite
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: core/views/ars_fan_counter.php:340
+#@ arsocial_lite
+msgid "Profile URL/Page URL"
+msgstr "Profile URL/Page URL"
+
+#: core/views/ars_fan_counter.php:342
+#@ arsocial_lite
+msgid "Set an URL of Linked IN Company page or profile ."
+msgstr "Set an URL of Linked IN Company page or profile ."
+
+#: core/views/ars_fan_counter.php:383
+#@ arsocial_lite
+msgid "Enable follow Button"
+msgstr "Enable follow Button"
+
+#: core/views/ars_fan_counter.php:389
+#: core/views/ars_fan_counter_setting.php:316
+#@ arsocial_lite
+msgid "Enter Company ID"
+msgstr "Enter Company ID"
+
+#: core/views/ars_fan_counter.php:405
+#: core/views/ars_fan_counter_setting.php:332
+#: core/views/ars_like.php:327
+#: core/views/ars_like_setting.php:245
+#: core/views/ars_locker.php:245
+#: core/views/ars_locker_setting.php:330
+#: core/views/ars_share.php:206
+#: core/views/ars_share_setting.php:159
+#@ arsocial_lite
+msgid "Available in premium version"
+msgstr "Available in premium version"
+
+#: core/views/ars_fan_counter.php:412
+#: core/views/ars_fan_counter_setting.php:339
+#@ arsocial_lite
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: core/views/ars_fan_counter.php:422
+#: core/views/ars_fan_counter_setting.php:350
+#@ arsocial_lite
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: core/views/ars_fan_counter.php:432
+#: core/views/ars_fan_counter_setting.php:361
+#: core/views/ars_like.php:387
+#: core/views/ars_like_setting.php:306
+#@ arsocial_lite
+msgid "Instagram"
+msgstr "Instagram"
+
+#: core/views/ars_fan_counter.php:443
+#: core/views/ars_fan_counter_setting.php:372
+#@ arsocial_lite
+msgid "Youtube"
+msgstr "Youtube"
+
+#: core/views/ars_fan_counter.php:456
+#: core/views/ars_fan_counter_setting.php:385
+#@ arsocial_lite
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: core/views/ars_fan_counter.php:467
+#: core/views/ars_fan_counter_setting.php:396
+#: core/views/ars_global_setting.php:239
+#@ arsocial_lite
+msgid "VK"
+msgstr "VK"
+
+#: core/views/ars_fan_counter.php:478
+#: core/views/ars_fan_counter_setting.php:407
+#@ arsocial_lite
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: core/views/ars_fan_counter.php:489
+#: core/views/ars_fan_counter_setting.php:418
+#@ arsocial_lite
+msgid "Github"
+msgstr "Github"
+
+#: core/views/ars_fan_counter.php:502
+#: core/views/ars_fan_counter_setting.php:430
+#@ arsocial_lite
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: core/views/ars_fan_counter.php:513
+#: core/views/ars_fan_counter_setting.php:440
+#: social-share-and-social-locker-arsocial.php:2045
+#@ arsocial_lite
+msgid "Flickr"
+msgstr "Flickr"
+
+#: core/views/ars_fan_counter.php:530
+#: core/views/ars_like.php:404
+#: core/views/ars_locker.php:364
+#: core/views/ars_locker_setting.php:502
+#: core/views/ars_share.php:229
+#@ arsocial_lite
+msgid "Select Template & Style"
+msgstr "Select Template & Style"
+
+#: core/views/ars_fan_counter.php:541
+#: core/views/ars_fan_counter_setting.php:504
+#: core/views/ars_fan_counter_setting.php:679
+#: core/views/ars_fan_counter_setting.php:923
+#: core/views/ars_fan_counter_setting.php:1131
+#: core/views/ars_fan_counter_setting.php:1337
+#: core/views/ars_fan_counter_setting.php:1570
+#: core/views/ars_fan_counter_setting.php:1824
+#: core/views/ars_like.php:432
+#: core/views/ars_like_setting.php:366
+#: core/views/ars_like_setting.php:559
+#: core/views/ars_like_setting.php:762
+#: core/views/ars_like_setting.php:934
+#: core/views/ars_like_setting.php:1123
+#: core/views/ars_like_setting.php:1337
+#: core/views/ars_locker.php:371
+#: core/views/ars_locker_setting.php:508
+#: core/views/ars_share.php:239
+#: core/views/ars_share_setting.php:233
+#: core/views/ars_share_setting.php:463
+#: core/views/ars_share_setting.php:788
+#: core/views/ars_share_setting.php:1052
+#: core/views/ars_share_setting.php:1268
+#: core/views/ars_share_setting.php:1571
+#: core/views/ars_share_setting.php:1901
+#: core/views/ars_share_setting.php:2241
+#@ arsocial_lite
+msgid "Select Template"
+msgstr "Select Template"
+
+#: core/views/ars_fan_counter.php:549
+#: core/views/ars_fan_counter_setting.php:512
+#: core/views/ars_fan_counter_setting.php:687
+#: core/views/ars_fan_counter_setting.php:1139
+#: core/views/ars_fan_counter_setting.php:1345
+#: core/views/ars_fan_counter_setting.php:1584
+#: core/views/ars_like.php:444
+#: core/views/ars_like_setting.php:379
+#: core/views/ars_like_setting.php:772
+#: core/views/ars_like_setting.php:945
+#: core/views/ars_locker.php:385
+#: core/views/ars_locker_setting.php:522
+#: core/views/ars_share.php:267
+#: core/views/ars_share_setting.php:246
+#: core/views/ars_share_setting.php:476
+#: core/views/ars_share_setting.php:1281
+#: core/views/ars_share_setting.php:1584
+#: core/views/ars_share_setting.php:1914
+#@ arsocial_lite
+msgid "(More templates are available in pro version)"
+msgstr "(More templates are available in pro version)"
+
+#: core/views/ars_fan_counter.php:553
+#: core/views/ars_fan_counter_setting.php:516
+#: core/views/ars_fan_counter_setting.php:691
+#: core/views/ars_fan_counter_setting.php:934
+#: core/views/ars_fan_counter_setting.php:1143
+#: core/views/ars_fan_counter_setting.php:1349
+#: core/views/ars_fan_counter_setting.php:1588
+#: core/views/ars_share.php:459
+#: core/views/ars_share_setting.php:352
+#: core/views/ars_share_setting.php:620
+#: core/views/ars_share_setting.php:932
+#: core/views/ars_share_setting.php:1436
+#: core/views/ars_share_setting.php:1737
+#: core/views/ars_share_setting.php:2151
+#@ arsocial_lite
+msgid "Number Format"
+msgstr "Number Format"
+
+#: core/views/ars_fan_counter.php:572
+#: core/views/ars_fan_counter_setting.php:834
+#: core/views/ars_fan_counter_setting.php:1187
+#: core/views/ars_fan_counter_setting.php:1394
+#: core/views/ars_fan_counter_setting.php:1642
+#: core/views/ars_like.php:583
+#: core/views/ars_like_setting.php:488
+#: core/views/ars_like_setting.php:811
+#: core/views/ars_like_setting.php:979
+#: core/views/ars_like_setting.php:1176
+#: core/views/ars_share.php:349
+#: core/views/ars_share_setting.php:690
+#: core/views/ars_share_setting.php:1451
+#: core/views/ars_share_setting.php:1752
+#: core/views/ars_share_setting.php:2019
+#@ arsocial_lite
+msgid "Alignment"
+msgstr "Alignment"
+
+#: core/views/ars_fan_counter.php:582
+#: core/views/ars_fan_counter.php:718
+#: core/views/ars_fan_counter.php:819
+#: core/views/ars_fan_counter_setting.php:540
+#: core/views/ars_fan_counter_setting.php:556
+#: core/views/ars_fan_counter_setting.php:844
+#: core/views/ars_fan_counter_setting.php:863
+#: core/views/ars_fan_counter_setting.php:986
+#: core/views/ars_fan_counter_setting.php:1197
+#: core/views/ars_fan_counter_setting.php:1275
+#: core/views/ars_fan_counter_setting.php:1404
+#: core/views/ars_fan_counter_setting.php:1424
+#: core/views/ars_fan_counter_setting.php:1652
+#: core/views/ars_fan_counter_setting.php:1731
+#: core/views/ars_fan_counter_setting.php:1911
+#: core/views/ars_like.php:593
+#: core/views/ars_like.php:628
+#: core/views/ars_like_setting.php:497
+#: core/views/ars_like_setting.php:821
+#: core/views/ars_like_setting.php:989
+#: core/views/ars_like_setting.php:1186
+#: core/views/ars_like_setting.php:1416
+#: core/views/ars_share.php:359
+#: core/views/ars_share.php:411
+#: core/views/ars_share.php:452
+#: core/views/ars_share_setting.php:257
+#: core/views/ars_share_setting.php:700
+#: core/views/ars_share_setting.php:745
+#: core/views/ars_share_setting.php:906
+#: core/views/ars_share_setting.php:1409
+#: core/views/ars_share_setting.php:1461
+#: core/views/ars_share_setting.php:1709
+#: core/views/ars_share_setting.php:1762
+#: core/views/ars_share_setting.php:2029
+#: core/views/ars_share_setting.php:2144
+#: core/views/ars_share_setting.php:2333
+#@ arsocial_lite
+msgid "Left"
+msgstr "Left"
+
+#: core/views/ars_fan_counter.php:586
+#: core/views/ars_fan_counter_setting.php:848
+#: core/views/ars_fan_counter_setting.php:1201
+#: core/views/ars_fan_counter_setting.php:1408
+#: core/views/ars_fan_counter_setting.php:1656
+#: core/views/ars_like.php:597
+#: core/views/ars_like_setting.php:501
+#: core/views/ars_like_setting.php:825
+#: core/views/ars_like_setting.php:993
+#: core/views/ars_like_setting.php:1190
+#: core/views/ars_share.php:363
+#: core/views/ars_share_setting.php:704
+#: core/views/ars_share_setting.php:1089
+#: core/views/ars_share_setting.php:1465
+#: core/views/ars_share_setting.php:1766
+#: core/views/ars_share_setting.php:2033
+#@ arsocial_lite
+msgid "Center"
+msgstr "Center"
+
+#: core/views/ars_fan_counter.php:590
+#: core/views/ars_fan_counter.php:722
+#: core/views/ars_fan_counter.php:820
+#: core/views/ars_fan_counter_setting.php:544
+#: core/views/ars_fan_counter_setting.php:557
+#: core/views/ars_fan_counter_setting.php:852
+#: core/views/ars_fan_counter_setting.php:864
+#: core/views/ars_fan_counter_setting.php:987
+#: core/views/ars_fan_counter_setting.php:1205
+#: core/views/ars_fan_counter_setting.php:1276
+#: core/views/ars_fan_counter_setting.php:1412
+#: core/views/ars_fan_counter_setting.php:1425
+#: core/views/ars_fan_counter_setting.php:1660
+#: core/views/ars_fan_counter_setting.php:1732
+#: core/views/ars_fan_counter_setting.php:1912
+#: core/views/ars_like.php:601
+#: core/views/ars_like.php:632
+#: core/views/ars_like_setting.php:505
+#: core/views/ars_like_setting.php:829
+#: core/views/ars_like_setting.php:997
+#: core/views/ars_like_setting.php:1194
+#: core/views/ars_like_setting.php:1417
+#: core/views/ars_share.php:367
+#: core/views/ars_share.php:415
+#: core/views/ars_share.php:453
+#: core/views/ars_share_setting.php:261
+#: core/views/ars_share_setting.php:708
+#: core/views/ars_share_setting.php:746
+#: core/views/ars_share_setting.php:907
+#: core/views/ars_share_setting.php:1410
+#: core/views/ars_share_setting.php:1469
+#: core/views/ars_share_setting.php:1710
+#: core/views/ars_share_setting.php:1770
+#: core/views/ars_share_setting.php:2037
+#: core/views/ars_share_setting.php:2145
+#: core/views/ars_share_setting.php:2334
+#@ arsocial_lite
+msgid "Right"
+msgstr "Right"
+
+#: core/views/ars_fan_counter.php:596
+#: core/views/ars_fan_counter_setting.php:735
+#: core/views/ars_like.php:463
+#: core/views/ars_like_setting.php:414
+#: core/views/ars_share.php:580
+#: core/views/ars_share_setting.php:566
+#@ arsocial_lite
+msgid "Display Bar"
+msgstr "Display Bar"
+
+#: core/views/ars_fan_counter.php:602
+#: core/views/ars_fan_counter.php:615
+#: core/views/ars_fan_counter_setting.php:739
+#: core/views/ars_fan_counter_setting.php:953
+#: core/views/ars_like.php:469
+#: core/views/ars_like.php:482
+#: core/views/ars_like_setting.php:418
+#: core/views/ars_like_setting.php:579
+#: core/views/ars_share.php:586
+#: core/views/ars_share.php:606
+#: core/views/ars_share_setting.php:572
+#: core/views/ars_share_setting.php:854
+#@ arsocial_lite
+msgid "On Load"
+msgstr "On Load"
+
+#: core/views/ars_fan_counter.php:603
+#: core/views/ars_fan_counter.php:616
+#: core/views/ars_fan_counter_setting.php:740
+#: core/views/ars_fan_counter_setting.php:954
+#: core/views/ars_like.php:470
+#: core/views/ars_like.php:483
+#: core/views/ars_like_setting.php:419
+#: core/views/ars_like_setting.php:580
+#: core/views/ars_share.php:587
+#: core/views/ars_share.php:607
+#: core/views/ars_share_setting.php:573
+#: core/views/ars_share_setting.php:855
+#@ arsocial_lite
+msgid "On Scroll"
+msgstr "On Scroll"
+
+#: core/views/ars_fan_counter.php:609
+#: core/views/ars_fan_counter_setting.php:949
+#: core/views/ars_like.php:476
+#: core/views/ars_like_setting.php:573
+#: core/views/ars_share.php:600
+#: core/views/ars_share_setting.php:848
+#@ arsocial_lite
+msgid "Display Popup"
+msgstr "Display Popup"
+
+#: core/views/ars_fan_counter.php:629
+#: core/views/ars_like.php:497
+#: core/views/ars_like_setting.php:586
+#: core/views/ars_share.php:620
+#: core/views/ars_share_setting.php:861
+#@ arsocial_lite
+msgid "Display Popup After n seconds"
+msgstr "Display Popup After n seconds"
+
+#: core/views/ars_fan_counter.php:636
+#: core/views/ars_like.php:504
+#: core/views/ars_like_setting.php:593
+#: core/views/ars_share.php:627
+#: core/views/ars_share_setting.php:868
+#@ arsocial_lite
+msgid "Display Popup After n % of scroll"
+msgstr "Display Popup After n % of scroll"
+
+#: core/views/ars_fan_counter.php:643
+#: core/views/ars_fan_counter_setting.php:1018
+#: core/views/ars_like.php:660
+#: core/views/ars_share.php:634
+#@ arsocial_lite
+msgid "Popup Height"
+msgstr "Popup Height"
+
+#: core/views/ars_fan_counter.php:647
+#: core/views/ars_fan_counter_setting.php:1023
+#: core/views/ars_like.php:664
+#: core/views/ars_like_setting.php:674
+#: core/views/ars_share.php:638
+#: core/views/ars_share_setting.php:1001
+#@ arsocial_lite
+msgid "Leave blank for auto height."
+msgstr "Leave blank for auto height."
+
+#: core/views/ars_fan_counter.php:651
+#: core/views/ars_fan_counter_setting.php:1027
+#: core/views/ars_like.php:668
+#: core/views/ars_share.php:642
+#@ arsocial_lite
+msgid "Popup Width"
+msgstr "Popup Width"
+
+#: core/views/ars_fan_counter.php:656
+#: core/views/ars_fan_counter_setting.php:1032
+#: core/views/ars_like.php:672
+#: core/views/ars_like_setting.php:665
+#: core/views/ars_share.php:646
+#: core/views/ars_share_setting.php:993
+#@ arsocial_lite
+msgid "Leave blank for auto width."
+msgstr "Leave blank for auto width."
+
+#: core/views/ars_fan_counter.php:668
+#: core/views/ars_fan_counter_setting.php:746
+#: core/views/ars_fan_counter_setting.php:963
+#: core/views/ars_like.php:519
+#: core/views/ars_like_setting.php:425
+#: core/views/ars_share.php:650
+#: core/views/ars_share_setting.php:579
+#@ arsocial_lite
+msgid "Display Bar After n seconds"
+msgstr "Display Bar After n seconds"
+
+#: core/views/ars_fan_counter.php:675
+#: core/views/ars_fan_counter_setting.php:756
+#: core/views/ars_fan_counter_setting.php:973
+#: core/views/ars_like.php:526
+#: core/views/ars_like_setting.php:432
+#: core/views/ars_share.php:657
+#: core/views/ars_share_setting.php:586
+#@ arsocial_lite
+msgid "Display Bar After n % of scroll"
+msgstr "Display Bar After n % of scroll"
+
+#: core/views/ars_fan_counter.php:682
+#@ arsocial_lite
+msgid "Start top bar from Y Position"
+msgstr "Start top bar from Y Position"
+
+#: core/views/ars_fan_counter.php:689
+#: core/views/ars_fan_counter.php:711
+#: core/views/ars_fan_counter_setting.php:531
+#: core/views/ars_fan_counter_setting.php:706
+#: core/views/ars_fan_counter_setting.php:1158
+#: core/views/ars_fan_counter_setting.php:1365
+#: core/views/ars_fan_counter_setting.php:1603
+#: core/views/ars_like.php:622
+#: core/views/ars_like.php:638
+#: core/views/ars_like_setting.php:383
+#: core/views/ars_like_setting.php:777
+#: core/views/ars_like_setting.php:948
+#: core/views/ars_like_setting.php:1138
+#: core/views/ars_share.php:373
+#: core/views/ars_share.php:402
+#: core/views/ars_share_setting.php:250
+#: core/views/ars_share_setting.php:480
+#: core/views/ars_share_setting.php:1285
+#: core/views/ars_share_setting.php:1588
+#: core/views/ars_share_setting.php:1918
+#@ arsocial_lite
+msgid "Position"
+msgstr "Position"
+
+#: core/views/ars_fan_counter.php:701
+#: core/views/ars_fan_counter.php:817
+#: core/views/ars_fan_counter_setting.php:554
+#: core/views/ars_fan_counter_setting.php:725
+#: core/views/ars_fan_counter_setting.php:861
+#: core/views/ars_fan_counter_setting.php:984
+#: core/views/ars_fan_counter_setting.php:1177
+#: core/views/ars_fan_counter_setting.php:1273
+#: core/views/ars_fan_counter_setting.php:1384
+#: core/views/ars_fan_counter_setting.php:1422
+#: core/views/ars_fan_counter_setting.php:1729
+#: core/views/ars_like.php:649
+#: core/views/ars_like_setting.php:404
+#: core/views/ars_like_setting.php:800
+#: core/views/ars_like_setting.php:969
+#: core/views/ars_share.php:392
+#: core/views/ars_share_setting.php:499
+#: core/views/ars_share_setting.php:1308
+#: core/views/ars_share_setting.php:1610
+#@ arsocial_lite
+msgid "Top"
+msgstr "Top"
+
+#: core/views/ars_fan_counter.php:705
+#: core/views/ars_fan_counter.php:818
+#: core/views/ars_fan_counter_setting.php:555
+#: core/views/ars_fan_counter_setting.php:729
+#: core/views/ars_fan_counter_setting.php:862
+#: core/views/ars_fan_counter_setting.php:985
+#: core/views/ars_fan_counter_setting.php:1181
+#: core/views/ars_fan_counter_setting.php:1274
+#: core/views/ars_fan_counter_setting.php:1388
+#: core/views/ars_fan_counter_setting.php:1423
+#: core/views/ars_fan_counter_setting.php:1730
+#: core/views/ars_like.php:653
+#: core/views/ars_like_setting.php:408
+#: core/views/ars_like_setting.php:804
+#: core/views/ars_like_setting.php:973
+#: core/views/ars_share.php:396
+#: core/views/ars_share_setting.php:503
+#: core/views/ars_share_setting.php:1312
+#: core/views/ars_share_setting.php:1614
+#@ arsocial_lite
+msgid "Bottom"
+msgstr "Bottom"
+
+#: core/views/ars_fan_counter.php:732
+#: core/views/ars_fan_counter_setting.php:567
+#: core/views/ars_fan_counter_setting.php:776
+#: core/views/ars_fan_counter_setting.php:996
+#: core/views/ars_fan_counter_setting.php:1215
+#: core/views/ars_fan_counter_setting.php:1434
+#: core/views/ars_fan_counter_setting.php:1669
+#: core/views/ars_like.php:185
+#: core/views/ars_like.php:560
+#: core/views/ars_like_setting.php:103
+#: core/views/ars_like_setting.php:465
+#: core/views/ars_like_setting.php:620
+#: core/views/ars_like_setting.php:860
+#: core/views/ars_like_setting.php:1019
+#: core/views/ars_like_setting.php:1219
+#@ arsocial_lite
+msgid "Button Width"
+msgstr "Button Width"
+
+#: core/views/ars_fan_counter.php:739
+#: core/views/ars_fan_counter_setting.php:577
+#: core/views/ars_fan_counter_setting.php:786
+#: core/views/ars_fan_counter_setting.php:1004
+#: core/views/ars_fan_counter_setting.php:1225
+#: core/views/ars_fan_counter_setting.php:1444
+#: core/views/ars_fan_counter_setting.php:1679
+#: core/views/ars_like.php:569
+#: core/views/ars_like_setting.php:474
+#: core/views/ars_like_setting.php:630
+#: core/views/ars_like_setting.php:870
+#: core/views/ars_like_setting.php:1030
+#: core/views/ars_like_setting.php:1227
+#: core/views/ars_share.php:504
+#: core/views/ars_share_setting.php:378
+#: core/views/ars_share_setting.php:643
+#: core/views/ars_share_setting.php:957
+#: core/views/ars_share_setting.php:1484
+#: core/views/ars_share_setting.php:1786
+#: core/views/ars_share_setting.php:2068
+#: social-share-and-social-locker-arsocial.php:2002
+#: social-share-and-social-locker-arsocial.php:2021
+#@ arsocial_lite
+msgid "Small"
+msgstr "Small"
+
+#: core/views/ars_fan_counter.php:743
+#: core/views/ars_fan_counter_setting.php:581
+#: core/views/ars_fan_counter_setting.php:790
+#: core/views/ars_fan_counter_setting.php:1008
+#: core/views/ars_fan_counter_setting.php:1229
+#: core/views/ars_fan_counter_setting.php:1448
+#: core/views/ars_fan_counter_setting.php:1683
+#: core/views/ars_like.php:573
+#: core/views/ars_like_setting.php:478
+#: core/views/ars_like_setting.php:634
+#: core/views/ars_like_setting.php:874
+#: core/views/ars_like_setting.php:1034
+#: core/views/ars_like_setting.php:1231
+#: core/views/ars_share.php:508
+#: core/views/ars_share_setting.php:382
+#: core/views/ars_share_setting.php:647
+#: core/views/ars_share_setting.php:961
+#: core/views/ars_share_setting.php:1488
+#: core/views/ars_share_setting.php:1790
+#: core/views/ars_share_setting.php:2072
+#: social-share-and-social-locker-arsocial.php:2003
+#: social-share-and-social-locker-arsocial.php:2022
+#@ arsocial_lite
+msgid "Medium"
+msgstr "Medium"
+
+#: core/views/ars_fan_counter.php:747
+#: core/views/ars_fan_counter_setting.php:585
+#: core/views/ars_fan_counter_setting.php:794
+#: core/views/ars_fan_counter_setting.php:1012
+#: core/views/ars_fan_counter_setting.php:1233
+#: core/views/ars_fan_counter_setting.php:1452
+#: core/views/ars_fan_counter_setting.php:1687
+#: core/views/ars_like.php:577
+#: core/views/ars_like_setting.php:482
+#: core/views/ars_like_setting.php:638
+#: core/views/ars_like_setting.php:878
+#: core/views/ars_like_setting.php:1038
+#: core/views/ars_like_setting.php:1235
+#: core/views/ars_share.php:512
+#: core/views/ars_share_setting.php:386
+#: core/views/ars_share_setting.php:651
+#: core/views/ars_share_setting.php:965
+#: core/views/ars_share_setting.php:1492
+#: core/views/ars_share_setting.php:1794
+#: core/views/ars_share_setting.php:2076
+#: social-share-and-social-locker-arsocial.php:2004
+#: social-share-and-social-locker-arsocial.php:2023
+#@ arsocial_lite
+msgid "Large"
+msgstr "Large"
+
+#: core/views/ars_fan_counter.php:753
+#: core/views/ars_fan_counter_setting.php:591
+#: core/views/ars_fan_counter_setting.php:800
+#: core/views/ars_fan_counter_setting.php:1239
+#: core/views/ars_fan_counter_setting.php:1458
+#: core/views/ars_fan_counter_setting.php:1693
+#: core/views/ars_share.php:518
+#: core/views/ars_share_setting.php:392
+#: core/views/ars_share_setting.php:657
+#: core/views/ars_share_setting.php:1133
+#: core/views/ars_share_setting.php:1498
+#: core/views/ars_share_setting.php:1800
+#: core/views/ars_share_setting.php:2082
+#@ arsocial_lite
+msgid "More Button After"
+msgstr "More Button After"
+
+#: core/views/ars_fan_counter.php:760
+#: core/views/ars_fan_counter_setting.php:601
+#: core/views/ars_fan_counter_setting.php:810
+#: core/views/ars_fan_counter_setting.php:1247
+#: core/views/ars_fan_counter_setting.php:1468
+#: core/views/ars_fan_counter_setting.php:1701
+#: core/views/ars_fan_counter_setting.php:1885
+#: core/views/ars_like_setting.php:1392
+#: core/views/ars_share.php:525
+#: core/views/ars_share_setting.php:400
+#: core/views/ars_share_setting.php:664
+#: core/views/ars_share_setting.php:1140
+#: core/views/ars_share_setting.php:1505
+#: core/views/ars_share_setting.php:1807
+#: core/views/ars_share_setting.php:2089
+#: core/views/ars_share_setting.php:2309
+#@ arsocial_lite
+msgid "More Button Style"
+msgstr "More Button Style"
+
+#: core/views/ars_fan_counter.php:764
+#: core/views/ars_fan_counter_setting.php:607
+#: core/views/ars_fan_counter_setting.php:814
+#: core/views/ars_fan_counter_setting.php:1251
+#: core/views/ars_fan_counter_setting.php:1474
+#: core/views/ars_fan_counter_setting.php:1707
+#: core/views/ars_fan_counter_setting.php:1892
+#: core/views/ars_like_setting.php:1399
+#: core/views/ars_share.php:531
+#: core/views/ars_share_setting.php:406
+#: core/views/ars_share_setting.php:670
+#: core/views/ars_share_setting.php:1146
+#: core/views/ars_share_setting.php:1511
+#: core/views/ars_share_setting.php:1813
+#: core/views/ars_share_setting.php:2095
+#: core/views/ars_share_setting.php:2316
+#@ arsocial_lite
+msgid "Plus icon"
+msgstr "Plus icon"
+
+#: core/views/ars_fan_counter.php:765
+#: core/views/ars_fan_counter_setting.php:608
+#: core/views/ars_fan_counter_setting.php:815
+#: core/views/ars_fan_counter_setting.php:1252
+#: core/views/ars_fan_counter_setting.php:1475
+#: core/views/ars_fan_counter_setting.php:1708
+#: core/views/ars_fan_counter_setting.php:1893
+#: core/views/ars_like_setting.php:1400
+#: core/views/ars_share.php:532
+#: core/views/ars_share_setting.php:407
+#: core/views/ars_share_setting.php:671
+#: core/views/ars_share_setting.php:1147
+#: core/views/ars_share_setting.php:1512
+#: core/views/ars_share_setting.php:1814
+#: core/views/ars_share_setting.php:2096
+#: core/views/ars_share_setting.php:2317
+#@ arsocial_lite
+msgid "Dot icon"
+msgstr "Dot icon"
+
+#: core/views/ars_fan_counter.php:771
+#: core/views/ars_fan_counter_setting.php:614
+#: core/views/ars_fan_counter_setting.php:821
+#: core/views/ars_fan_counter_setting.php:1258
+#: core/views/ars_fan_counter_setting.php:1481
+#: core/views/ars_fan_counter_setting.php:1714
+#: core/views/ars_share.php:538
+#: core/views/ars_share_setting.php:413
+#: core/views/ars_share_setting.php:677
+#: core/views/ars_share_setting.php:1152
+#: core/views/ars_share_setting.php:1518
+#: core/views/ars_share_setting.php:1820
+#: core/views/ars_share_setting.php:2102
+#@ arsocial_lite
+msgid "More Button action"
+msgstr "More Button action"
+
+#: core/views/ars_fan_counter.php:777
+#: core/views/ars_fan_counter_setting.php:620
+#: core/views/ars_fan_counter_setting.php:827
+#: core/views/ars_fan_counter_setting.php:1262
+#: core/views/ars_fan_counter_setting.php:1487
+#: core/views/ars_fan_counter_setting.php:1718
+#: core/views/ars_share.php:544
+#: core/views/ars_share_setting.php:417
+#: core/views/ars_share_setting.php:683
+#: core/views/ars_share_setting.php:1158
+#: core/views/ars_share_setting.php:1524
+#: core/views/ars_share_setting.php:1826
+#: core/views/ars_share_setting.php:2106
+#@ arsocial_lite
+msgid "All networks after more button"
+msgstr "All networks after more button"
+
+#: core/views/ars_fan_counter.php:778
+#: core/views/ars_fan_counter_setting.php:621
+#: core/views/ars_fan_counter_setting.php:828
+#: core/views/ars_fan_counter_setting.php:1263
+#: core/views/ars_fan_counter_setting.php:1488
+#: core/views/ars_fan_counter_setting.php:1719
+#: core/views/ars_share.php:545
+#: core/views/ars_share_setting.php:418
+#: core/views/ars_share_setting.php:684
+#: core/views/ars_share_setting.php:1159
+#: core/views/ars_share_setting.php:1525
+#: core/views/ars_share_setting.php:1827
+#: core/views/ars_share_setting.php:2107
+#@ arsocial_lite
+msgid "All networks in Popup"
+msgstr "All networks in Popup"
+
+#: core/views/ars_fan_counter.php:784
+#: core/views/ars_like.php:607
+#: core/views/ars_share.php:551
+#@ arsocial_lite
+msgid "Hide On Mobile"
+msgstr "Hide On Mobile"
+
+#: core/views/ars_fan_counter.php:790
+#: core/views/ars_fan_counter.php:805
+#: core/views/ars_fan_counter_setting.php:1043
+#: core/views/ars_fan_counter_setting.php:1503
+#: core/views/ars_fan_counter_setting.php:1814
+#: core/views/ars_global_setting.php:365
+#: core/views/ars_global_setting.php:522
+#: core/views/ars_global_setting.php:535
+#: core/views/ars_global_setting.php:548
+#: core/views/ars_global_setting.php:562
+#: core/views/ars_like.php:455
+#: core/views/ars_like.php:547
+#: core/views/ars_like.php:613
+#: core/views/ars_like_setting.php:457
+#: core/views/ars_like_setting.php:609
+#: core/views/ars_like_setting.php:652
+#: core/views/ars_like_setting.php:851
+#: core/views/ars_like_setting.php:1012
+#: core/views/ars_like_setting.php:1050
+#: core/views/ars_like_setting.php:1210
+#: core/views/ars_like_setting.php:1328
+#: core/views/ars_locker.php:419
+#: core/views/ars_locker_setting.php:139
+#: core/views/ars_locker_setting.php:169
+#: core/views/ars_locker_setting.php:202
+#: core/views/ars_locker_setting.php:219
+#: core/views/ars_locker_setting.php:561
+#: core/views/ars_locker_setting.php:719
+#: core/views/ars_share.php:341
+#: core/views/ars_share.php:430
+#: core/views/ars_share.php:485
+#: core/views/ars_share.php:557
+#: core/views/ars_share.php:572
+#: core/views/ars_share_setting.php:299
+#: core/views/ars_share_setting.php:316
+#: core/views/ars_share_setting.php:344
+#: core/views/ars_share_setting.php:558
+#: core/views/ars_share_setting.php:607
+#: core/views/ars_share_setting.php:723
+#: core/views/ars_share_setting.php:884
+#: core/views/ars_share_setting.php:924
+#: core/views/ars_share_setting.php:981
+#: core/views/ars_share_setting.php:1012
+#: core/views/ars_share_setting.php:1174
+#: core/views/ars_share_setting.php:1370
+#: core/views/ars_share_setting.php:1387
+#: core/views/ars_share_setting.php:1428
+#: core/views/ars_share_setting.php:1670
+#: core/views/ars_share_setting.php:1687
+#: core/views/ars_share_setting.php:1729
+#: core/views/ars_share_setting.php:1842
+#: core/views/ars_share_setting.php:2011
+#: core/views/ars_share_setting.php:2053
+#: core/views/ars_share_setting.php:2122
+#: core/views/ars_share_setting.php:2232
+#@ arsocial_lite
+msgid "No"
+msgstr "No"
+
+#: core/views/ars_fan_counter.php:798
+#: core/views/ars_like.php:540
+#: core/views/ars_share.php:565
+#@ arsocial_lite
+msgid "Show Close Button"
+msgstr "Show Close Button"
+
+#: core/views/ars_fan_counter.php:813
+#: core/views/ars_fan_counter_setting.php:550
+#: core/views/ars_fan_counter_setting.php:857
+#: core/views/ars_fan_counter_setting.php:980
+#: core/views/ars_fan_counter_setting.php:1269
+#: core/views/ars_fan_counter_setting.php:1418
+#: core/views/ars_fan_counter_setting.php:1725
+#@ arsocial_lite
+msgid "Like / Follow Button Position"
+msgstr "Like / Follow Button Position"
+
+#: core/views/ars_fan_counter.php:871
+#: core/views/ars_fan_counter_setting.php:1964
+#: core/views/ars_like.php:706
+#: core/views/ars_like_setting.php:1461
+#: core/views/ars_locker.php:520
+#: core/views/ars_locker_setting.php:740
+#: core/views/ars_share.php:707
+#: core/views/ars_share_setting.php:2383
+#@ arsocial_lite
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: core/views/ars_fan_counter.php:877
+#: core/views/ars_fan_counter_setting.php:1970
+#: core/views/ars_like.php:712
+#: core/views/ars_like_setting.php:1468
+#: core/views/ars_locker.php:526
+#: core/views/ars_locker_setting.php:745
+#: core/views/ars_share.php:713
+#: core/views/ars_share_setting.php:2389
+#@ arsocial_lite
+msgid "Enter Custom CSS"
+msgstr "Enter Custom CSS"
+
+#: core/views/ars_fan_counter.php:888
+#@ arsocial_lite
+msgid "For CSS Class information related to fan counters,"
+msgstr "For CSS Class information related to fan counters,"
+
+#: core/views/ars_fan_counter.php:890
+#: core/views/ars_fan_counter_setting.php:1983
+#: core/views/ars_like.php:726
+#: core/views/ars_like_setting.php:1481
+#: core/views/ars_locker.php:539
+#: core/views/ars_locker_setting.php:758
+#: core/views/ars_share.php:726
+#: core/views/ars_share_setting.php:2402
+#@ arsocial_lite
+msgid "Please Click Here"
+msgstr "Please Click Here"
+
+#: core/views/ars_fan_counter_setting.php:168
+#@ arsocial_lite
+msgid "Enable Like Button on Hover"
+msgstr "Enable Like Button on Hover"
+
+#: core/views/ars_fan_counter_setting.php:238
+#@ arsocial_lite
+msgid "Enable Follow Button on Hover"
+msgstr "Enable Follow Button on Hover"
+
+#: core/views/ars_fan_counter_setting.php:267
+#@ arsocial_lite
+msgid "Profile ID/Page URL"
+msgstr "Profile ID/Page URL"
+
+#: core/views/ars_fan_counter_setting.php:269
+#@ arsocial_lite
+msgid "Set an URL of Linked IN Company page or ID of profile ."
+msgstr "Set an URL of Linked IN Company page or ID of profile ."
+
+#: core/views/ars_fan_counter_setting.php:310
+#@ arsocial_lite
+msgid "Enable follow Button on Hover"
+msgstr "Enable follow Button on Hover"
+
+#: core/views/ars_fan_counter_setting.php:458
+#: core/views/ars_like_setting.php:327
+#: core/views/ars_share_setting.php:184
+#@ arsocial_lite
+msgid "Sitewide Button Setup"
+msgstr "Sitewide Button Setup"
+
+#: core/views/ars_fan_counter_setting.php:494
+#: core/views/ars_share_setting.php:228
+#@ arsocial_lite
+msgid "Sidebar Styling Settings"
+msgstr "Sidebar Styling Settings"
+
+#: core/views/ars_fan_counter_setting.php:550
+#: core/views/ars_fan_counter_setting.php:857
+#: core/views/ars_fan_counter_setting.php:980
+#: core/views/ars_fan_counter_setting.php:1269
+#: core/views/ars_fan_counter_setting.php:1418
+#: core/views/ars_fan_counter_setting.php:1725
+#@ arsocial_lite
+msgid "on hover"
+msgstr "on hover"
+
+#: core/views/ars_fan_counter_setting.php:652
+#: core/views/ars_fan_counter_setting.php:659
+#: core/views/ars_fan_counter_setting.php:895
+#: core/views/ars_fan_counter_setting.php:902
+#: core/views/ars_fan_counter_setting.php:1076
+#: core/views/ars_fan_counter_setting.php:1083
+#: core/views/ars_fan_counter_setting.php:1308
+#: core/views/ars_fan_counter_setting.php:1317
+#: core/views/ars_like_setting.php:536
+#: core/views/ars_like_setting.php:543
+#: core/views/ars_like_setting.php:703
+#: core/views/ars_like_setting.php:710
+#: core/views/ars_like_setting.php:909
+#: core/views/ars_like_setting.php:917
+#: core/views/ars_locker_setting.php:690
+#: core/views/ars_locker_setting.php:696
+#: core/views/ars_share_setting.php:443
+#: core/views/ars_share_setting.php:450
+#: core/views/ars_share_setting.php:767
+#: core/views/ars_share_setting.php:774
+#: core/views/ars_share_setting.php:1035
+#: core/views/ars_share_setting.php:1042
+#: core/views/ars_share_setting.php:1546
+#: core/views/ars_share_setting.php:1554
+#@ arsocial_lite
+msgid "Exclude Pages"
+msgstr "Exclude Pages"
+
+#: core/views/ars_fan_counter_setting.php:660
+#: core/views/ars_fan_counter_setting.php:903
+#: core/views/ars_fan_counter_setting.php:1084
+#: core/views/ars_fan_counter_setting.php:1318
+#: core/views/ars_like_setting.php:544
+#: core/views/ars_like_setting.php:711
+#: core/views/ars_like_setting.php:918
+#: core/views/ars_locker_setting.php:697
+#: core/views/ars_locker_setting.php:733
+#: core/views/ars_share_setting.php:451
+#: core/views/ars_share_setting.php:775
+#: core/views/ars_share_setting.php:1043
+#: core/views/ars_share_setting.php:1555
+#@ arsocial_lite
+msgid "Enter comma seperated page id where you do not want to display buttons."
+msgstr "Enter comma seperated page id where you do not want to display buttons."
+
+#: core/views/ars_fan_counter_setting.php:670
+#: core/views/ars_like_setting.php:362
+#: core/views/ars_share_setting.php:459
+#@ arsocial_lite
+msgid "Top/Bottom Bar Styling Settings"
+msgstr "Top/Bottom Bar Styling Settings"
+
+#: core/views/ars_fan_counter_setting.php:766
+#@ arsocial_lite
+msgid "Start Top Bar from Y position"
+msgstr "Start Top Bar from Y position"
+
+#: core/views/ars_fan_counter_setting.php:914
+#: core/views/ars_like_setting.php:555
+#: core/views/ars_share_setting.php:784
+#@ arsocial_lite
+msgid "Popup Styling Settings"
+msgstr "Popup Styling Settings"
+
+#: core/views/ars_fan_counter_setting.php:1036
+#: core/views/ars_share_setting.php:971
+#@ arsocial_lite
+msgid "Display Close Button"
+msgstr "Display Close Button"
+
+#: core/views/ars_fan_counter_setting.php:1093
+#: core/views/ars_like_setting.php:721
+#: core/views/ars_share_setting.php:1232
+#@ arsocial_lite
+msgid "Sectionwise Button Setup"
+msgstr "Sectionwise Button Setup"
+
+#: core/views/ars_fan_counter_setting.php:1095
+#: core/views/ars_like_setting.php:723
+#: core/views/ars_share_setting.php:1235
+#@ arsocial_lite
+msgid "Please select atleast one position."
+msgstr "Please select atleast one position."
+
+#: core/views/ars_fan_counter_setting.php:1122
+#: core/views/ars_like_setting.php:758
+#: core/views/ars_locker_setting.php:687
+#: core/views/ars_share_setting.php:1264
+#@ arsocial_lite
+msgid "Page Settings"
+msgstr "Page Settings"
+
+#: core/views/ars_fan_counter_setting.php:1329
+#: core/views/ars_locker_setting.php:706
+#: core/views/ars_share_setting.php:1566
+#@ arsocial_lite
+msgid "Post Settings"
+msgstr "Post Settings"
+
+#: core/views/ars_fan_counter_setting.php:1494
+#: core/views/ars_like_setting.php:1043
+#: core/views/ars_locker_setting.php:710
+#: core/views/ars_share_setting.php:1833
+#@ arsocial_lite
+msgid "Enable Social Icons on Post Excerpt"
+msgstr "Enable Social Icons on Post Excerpt"
+
+#: core/views/ars_fan_counter_setting.php:1537
+#: core/views/ars_fan_counter_setting.php:1544
+#: core/views/ars_like_setting.php:1083
+#: core/views/ars_like_setting.php:1090
+#: core/views/ars_locker_setting.php:726
+#: core/views/ars_locker_setting.php:732
+#: core/views/ars_share_setting.php:1865
+#: core/views/ars_share_setting.php:1872
+#@ arsocial_lite
+msgid "Exclude Posts"
+msgstr "Exclude Posts"
+
+#: core/views/ars_fan_counter_setting.php:1546
+#: core/views/ars_like_setting.php:1091
+#: core/views/ars_share_setting.php:1873
+#@ arsocial_lite
+msgid "Enter comma seperated post id where you do not want to display buttons."
+msgstr "Enter comma seperated post id where you do not want to display buttons."
+
+#: core/views/ars_fan_counter_setting.php:1562
+#: core/views/ars_like_setting.php:1112
+#: core/views/ars_share_setting.php:1892
+#@ arsocial_lite
+msgid "Woocommerce Settings"
+msgstr "Woocommerce Settings"
+
+#: core/views/ars_fan_counter_setting.php:1628
+#: core/views/ars_like_setting.php:1170
+#: core/views/ars_share_setting.php:1954
+#@ arsocial_lite
+msgid "Before Product"
+msgstr "Before Product"
+
+#: core/views/ars_fan_counter_setting.php:1632
+#: core/views/ars_like_setting.php:1166
+#: core/views/ars_share_setting.php:1950
+#@ arsocial_lite
+msgid "After Product"
+msgstr "After Product"
+
+#: core/views/ars_fan_counter_setting.php:1636
+#: core/views/ars_like_setting.php:1162
+#: core/views/ars_share_setting.php:1945
+#@ arsocial_lite
+msgid "After Price"
+msgstr "After Price"
+
+#: core/views/ars_fan_counter_setting.php:1764
+#: core/views/ars_fan_counter_setting.php:1771
+#: core/views/ars_like_setting.php:1271
+#: core/views/ars_like_setting.php:1278
+#: core/views/ars_share_setting.php:2183
+#@ arsocial_lite
+msgid "Exclude Products"
+msgstr "Exclude Products"
+
+#: core/views/ars_fan_counter_setting.php:1772
+#@ arsocial_lite
+msgid "Enter comma seperated prduct id where you do not want to display buttons."
+msgstr "Enter comma seperated prduct id where you do not want to display buttons."
+
+#: core/views/ars_fan_counter_setting.php:1788
+#: core/views/ars_like_setting.php:1296
+#: core/views/ars_share_setting.php:2208
+#@ arsocial_lite
+msgid "Mobile Display Settings"
+msgstr "Mobile Display Settings"
+
+#: core/views/ars_fan_counter_setting.php:1808
+#: core/views/ars_like_setting.php:1322
+#: core/views/ars_share_setting.php:2226
+#@ arsocial_lite
+msgid "Display on Custom Position"
+msgstr "Display on Custom Position"
+
+#: core/views/ars_fan_counter_setting.php:1861
+#: core/views/ars_like_setting.php:1368
+#: core/views/ars_share_setting.php:2278
+#@ arsocial_lite
+msgid "Position Type"
+msgstr "Position Type"
+
+#: core/views/ars_fan_counter_setting.php:1866
+#: core/views/ars_like_setting.php:1373
+#: core/views/ars_share_setting.php:2283
+#@ arsocial_lite
+msgid "Footer Icons"
+msgstr "Footer Icons"
+
+#: core/views/ars_fan_counter_setting.php:1871
+#: core/views/ars_like_setting.php:1378
+#: core/views/ars_share_setting.php:2288
+#@ arsocial_lite
+msgid "Footer Bar"
+msgstr "Footer Bar"
+
+#: core/views/ars_fan_counter_setting.php:1877
+#: core/views/ars_like_setting.php:1384
+#: core/views/ars_share_setting.php:2295
+#@ arsocial_lite
+msgid "Side Buttons"
+msgstr "Side Buttons"
+
+#: core/views/ars_fan_counter_setting.php:1899
+#: core/views/ars_like_setting.php:1406
+#: core/views/ars_share_setting.php:2323
+#@ arsocial_lite
+msgid "Footer Bar Label"
+msgstr "Footer Bar Label"
+
+#: core/views/ars_fan_counter_setting.php:1907
+#: core/views/ars_like_setting.php:1413
+#: core/views/ars_share_setting.php:2330
+#@ arsocial_lite
+msgid "Select Button Position"
+msgstr "Select Button Position"
+
+#: core/views/ars_fan_counter_setting.php:1919
+#: core/views/ars_like_setting.php:1424
+#: core/views/ars_share_setting.php:2341
+#@ arsocial_lite
+msgid "Hide on Mobile"
+msgstr "Hide on Mobile"
+
+#: core/views/ars_fan_counter_setting.php:1924
+#: core/views/ars_like_setting.php:1429
+#: core/views/ars_share_setting.php:2346
+#@ arsocial_lite
+msgid "Hide Top Position"
+msgstr "Hide Top Position"
+
+#: core/views/ars_fan_counter_setting.php:1928
+#: core/views/ars_like_setting.php:1433
+#: core/views/ars_share_setting.php:2350
+#@ arsocial_lite
+msgid "Hide Bottom Position"
+msgstr "Hide Bottom Position"
+
+#: core/views/ars_fan_counter_setting.php:1933
+#: core/views/ars_share_setting.php:2355
+#@ arsocial_lite
+msgid "Hide Sidebar"
+msgstr "Hide Sidebar"
+
+#: core/views/ars_fan_counter_setting.php:1940
+#: core/views/ars_like_setting.php:1439
+#@ arsocial_lite
+msgid "Hide Top/Bottom Bar"
+msgstr "Hide Top/Bottom Bar"
+
+#: core/views/ars_fan_counter_setting.php:1946
+#: core/views/ars_like_setting.php:1444
+#: core/views/ars_share_setting.php:2368
+#@ arsocial_lite
+msgid "Hide Popup"
+msgstr "Hide Popup"
+
+#: core/views/ars_fan_counter_setting.php:1981
+#@ arsocial_lite
+msgid "For CSS Class information related to Fan Counter,"
+msgstr "For CSS Class information related to Fan Counter,"
+
+#: core/views/ars_front_fan.php:11
+#@ arsocial_lite
+msgid "Shortcode ID is empty or Invalid. Please select valid Shortcode"
+msgstr "Shortcode ID is empty or Invalid. Please select valid Shortcode"
+
+#: core/views/ars_front_like.php:10
+#@ arsocial_lite
+msgid "Network ID is empty or Invalid. Please select valid Network"
+msgstr "Network ID is empty or Invalid. Please select valid Network"
+
+#: core/views/ars_front_locker.php:178
+#@ arsocial_lite
+msgid "Enter Email ID"
+msgstr "Enter Email ID"
+
+#: core/views/ars_global_setting.php:76
+#@ arsocial_lite
+msgid "General Settings"
+msgstr "General Settings"
+
+#: core/views/ars_global_setting.php:84
+#@ arsocial_lite
+msgid "Social Network Configuration"
+msgstr "Social Network Configuration"
+
+#: core/views/ars_global_setting.php:93
+#: core/views/ars_global_setting.php:244
+#@ arsocial_lite
+msgid "App Id"
+msgstr "App Id"
+
+#: core/views/ars_global_setting.php:97
+#@ arsocial_lite
+msgid "To get more information about Facebook API Configuration, Please"
+msgstr "To get more information about Facebook API Configuration, Please"
+
+#: core/views/ars_global_setting.php:97
+#: core/views/ars_global_setting.php:180
+#: core/views/ars_global_setting.php:216
+#: core/views/ars_global_setting.php:248
+#: core/views/ars_global_setting.php:264
+#@ arsocial_lite
+msgid "Click Here"
+msgstr "Click Here"
+
+#: core/views/ars_global_setting.php:135
+#@ arsocial_lite
+msgid "Version"
+msgstr "Version"
+
+#: core/views/ars_global_setting.php:180
+#@ arsocial_lite
+msgid "To get more information about Twitter API Configuration, Please"
+msgstr "To get more information about Twitter API Configuration, Please"
+
+#: core/views/ars_global_setting.php:198
+#@ arsocial_lite
+msgid "Token Secret"
+msgstr "Token Secret"
+
+#: core/views/ars_global_setting.php:208
+#@ arsocial_lite
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: core/views/ars_global_setting.php:216
+#@ arsocial_lite
+msgid "To get more information about LinkedIn API Configuration, Please"
+msgstr "To get more information about LinkedIn API Configuration, Please"
+
+#: core/views/ars_global_setting.php:248
+#@ arsocial_lite
+msgid "To get more information about VK API Configuration, Please"
+msgstr "To get more information about VK API Configuration, Please"
+
+#: core/views/ars_global_setting.php:259
+#@ arsocial_lite
+msgid "Bitly"
+msgstr "Bitly"
+
+#: core/views/ars_global_setting.php:264
+#@ arsocial_lite
+msgid "To get more information about Bitly API Configuration, Please"
+msgstr "To get more information about Bitly API Configuration, Please"
+
+#: core/views/ars_global_setting.php:280
+#@ arsocial_lite
+msgid "Fan Counter Update"
+msgstr "Fan Counter Update"
+
+#: core/views/ars_global_setting.php:285
+#@ arsocial_lite
+msgid "After x Minutes update counter from live"
+msgstr "After x Minutes update counter from live"
+
+#: core/views/ars_global_setting.php:298
+#@ arsocial_lite
+msgid "URL Shortner"
+msgstr "URL Shortner"
+
+#: core/views/ars_global_setting.php:301
+#@ arsocial_lite
+msgid "Enable URL Short Name"
+msgstr "Enable URL Short Name"
+
+#: core/views/ars_global_setting.php:309
+#@ arsocial_lite
+msgid "Built in WordPress function"
+msgstr "Built in WordPress function"
+
+#: core/views/ars_global_setting.php:311
+#@ arsocial_lite
+msgid "Bit.ly (Bitly)"
+msgstr "Bit.ly (Bitly)"
+
+#: core/views/ars_global_setting.php:319
+#@ arsocial_lite
+msgid "Please configure above Bitly API detail."
+msgstr "Please configure above Bitly API detail."
+
+#: core/views/ars_global_setting.php:326
+#@ arsocial_lite
+msgid "Email Configuration"
+msgstr "Email Configuration"
+
+#: core/views/ars_global_setting.php:331
+#@ arsocial_lite
+msgid "Email Method"
+msgstr "Email Method"
+
+#: core/views/ars_global_setting.php:337
+#@ arsocial_lite
+msgid "Use wordpress mail function"
+msgstr "Use wordpress mail function"
+
+#: core/views/ars_global_setting.php:338
+#@ arsocial_lite
+msgid "Use PHP mail function"
+msgstr "Use PHP mail function"
+
+#: core/views/ars_global_setting.php:340
+#@ arsocial_lite
+msgid "Choose the default function you will use to send mails."
+msgstr "Choose the default function you will use to send mails."
+
+#: core/views/ars_global_setting.php:344
+#@ arsocial_lite
+msgid "Email Button Function"
+msgstr "Email Button Function"
+
+#: core/views/ars_global_setting.php:351
+#@ arsocial_lite
+msgid "Using Popup"
+msgstr "Using Popup"
+
+#: core/views/ars_global_setting.php:352
+#@ arsocial_lite
+msgid "Using Default Mail Client"
+msgstr "Using Default Mail Client"
+
+#: core/views/ars_global_setting.php:354
+#@ arsocial_lite
+msgid "Choose the way you want to operate mail button."
+msgstr "Choose the way you want to operate mail button."
+
+#: core/views/ars_global_setting.php:358
+#@ arsocial_lite
+msgid "Edit mail message"
+msgstr "Edit mail message"
+
+#: core/views/ars_global_setting.php:369
+#@ arsocial_lite
+msgid "Allow user to change email body"
+msgstr "Allow user to change email body"
+
+#: core/views/ars_global_setting.php:373
+#@ arsocial_lite
+msgid "Default Email subject"
+msgstr "Default Email subject"
+
+#: core/views/ars_global_setting.php:383
+#@ arsocial_lite
+msgid "Default Email body"
+msgstr "Default Email body"
+
+#: core/views/ars_global_setting.php:389
+#@ arsocial_lite
+msgid "You can customize text to display when visitors share your content by mail button. You can use following variables."
+msgstr "You can customize text to display when visitors share your content by mail button. You can use following variables."
+
+#: core/views/ars_global_setting.php:407
+#@ arsocial_lite
+msgid "Front-end Font Settings"
+msgstr "Front-end Font Settings"
+
+#: core/views/ars_global_setting.php:416
+#@ arsocial_lite
+msgid "Share Button Font"
+msgstr "Share Button Font"
+
+#: core/views/ars_global_setting.php:438
+#@ arsocial_lite
+msgid "Like Button Font"
+msgstr "Like Button Font"
+
+#: core/views/ars_global_setting.php:459
+#@ arsocial_lite
+msgid "Fan Counter Font"
+msgstr "Fan Counter Font"
+
+#: core/views/ars_global_setting.php:481
+#@ arsocial_lite
+msgid "Locker Font"
+msgstr "Locker Font"
+
+#: core/views/ars_global_setting.php:504
+#@ arsocial_lite
+msgid "Load JS & CSS in all pages"
+msgstr "Load JS & CSS in all pages"
+
+#: core/views/ars_global_setting.php:506
+#@ arsocial_lite
+msgid "Not recommended"
+msgstr "Not recommended"
+
+#: core/views/ars_global_setting.php:506
+#@ arsocial_lite
+msgid "If you have any js/css loading issue in your theme, only in that case you should enable this settings"
+msgstr "If you have any js/css loading issue in your theme, only in that case you should enable this settings"
+
+#: core/views/ars_global_setting.php:516
+#@ arsocial_lite
+msgid "Social Share"
+msgstr "Social Share"
+
+#: core/views/ars_global_setting.php:529
+#@ arsocial_lite
+msgid "Social Like"
+msgstr "Social Like"
+
+#: core/views/ars_global_setting.php:542
+#@ arsocial_lite
+msgid "Social Fan Counter"
+msgstr "Social Fan Counter"
+
+#: core/views/ars_global_setting.php:556
+#@ arsocial_lite
+msgid "Social Locker"
+msgstr "Social Locker"
+
+#: core/views/ars_like.php:48
+#: core/views/ars_like.php:64
+#: core/views/ars_like_setting.php:37
+#: core/views/ars_like_setting.php:47
+#@ arsocial_lite
+msgid "Social Like/Follow & Subscribe Configuration"
+msgstr "Social Like/Follow & Subscribe Configuration"
+
+#: core/views/ars_like.php:79
+#@ arsocial_lite
+msgid "Select Position Where You Want To Display Like Buttons"
+msgstr "Select Position Where You Want To Display Like Buttons"
+
+#: core/views/ars_like.php:116
+#@ arsocial_lite
+msgid "Top/Bottom Bar"
+msgstr "Top/Bottom Bar"
+
+#: core/views/ars_like.php:159
+#: core/views/ars_like_setting.php:77
+#: core/views/ars_locker.php:191
+#: core/views/ars_locker_setting.php:275
+#@ arsocial_lite
+msgid "URL to Like"
+msgstr "URL to Like"
+
+#: core/views/ars_like.php:161
+#: core/views/ars_like_setting.php:79
+#@ arsocial_lite
+msgid "Set an URL of facebook page or website page which user has to like. Leave this field blank to use URL of page where this button will be located."
+msgstr "Set an URL of facebook page or website page which user has to like. Leave this field blank to use URL of page where this button will be located."
+
+#: core/views/ars_like.php:166
+#: core/views/ars_like_setting.php:84
+#@ arsocial_lite
+msgid "Button Layout"
+msgstr "Button Layout"
+
+#: core/views/ars_like.php:187
+#: core/views/ars_like_setting.php:105
+#@ arsocial_lite
+msgid "Work only with standard layout."
+msgstr "Work only with standard layout."
+
+#: core/views/ars_like.php:192
+#: core/views/ars_like_setting.php:110
+#@ arsocial_lite
+msgid "Button Action"
+msgstr "Button Action"
+
+#: core/views/ars_like.php:211
+#: core/views/ars_like_setting.php:129
+#@ arsocial_lite
+msgid "Button Colorscheme"
+msgstr "Button Colorscheme"
+
+#: core/views/ars_like.php:230
+#: core/views/ars_like.php:295
+#: core/views/ars_like_setting.php:148
+#: core/views/ars_like_setting.php:212
+#@ arsocial_lite
+msgid "Language"
+msgstr "Language"
+
+#: core/views/ars_like.php:250
+#: core/views/ars_like_setting.php:168
+#@ arsocial_lite
+msgid "Show Friend's Faces"
+msgstr "Show Friend's Faces"
+
+#: core/views/ars_like_setting.php:660
+#: core/views/ars_share_setting.php:989
+#@ arsocial_lite
+msgid "Width"
+msgstr "Width"
+
+#: core/views/ars_like_setting.php:668
+#: core/views/ars_share_setting.php:997
+#@ arsocial_lite
+msgid "Height"
+msgstr "Height"
+
+#: core/views/ars_like.php:267
+#: core/views/ars_like_setting.php:184
+#: core/views/ars_locker.php:263
+#: core/views/ars_locker_setting.php:366
+#@ arsocial_lite
+msgid "Twitter Follow"
+msgstr "Twitter Follow"
+
+#: core/views/ars_like.php:279
+#: core/views/ars_like_setting.php:196
+#@ arsocial_lite
+msgid "Show User Name"
+msgstr "Show User Name"
+
+#: core/views/ars_like.php:287
+#: core/views/ars_like_setting.php:204
+#@ arsocial_lite
+msgid "Large Button"
+msgstr "Large Button"
+
+#: core/views/ars_like.php:313
+#: core/views/ars_like_setting.php:230
+#@ arsocial_lite
+msgid "Opt-out of tailoring Twitter"
+msgstr "Opt-out of tailoring Twitter"
+
+#: core/views/ars_share.php:497
+#: core/views/ars_share_setting.php:371
+#: core/views/ars_share_setting.php:635
+#: core/views/ars_share_setting.php:947
+#: core/views/ars_share_setting.php:1474
+#: core/views/ars_share_setting.php:1776
+#: core/views/ars_share_setting.php:2060
+#@ arsocial_lite
+msgid "Button Size"
+msgstr "Button Size"
+
+#: core/views/ars_like.php:335
+#: core/views/ars_like_setting.php:252
+#@ arsocial_lite
+msgid "Linkedin Follow"
+msgstr "Linkedin Follow"
+
+#: core/views/ars_like.php:345
+#: core/views/ars_like_setting.php:261
+#@ arsocial_lite
+msgid "Pinterest Pinit"
+msgstr "Pinterest Pinit"
+
+#: core/views/ars_like.php:355
+#: core/views/ars_like_setting.php:272
+#@ arsocial_lite
+msgid "Pinterest Follow"
+msgstr "Pinterest Follow"
+
+#: core/views/ars_like.php:365
+#: core/views/ars_like_setting.php:282
+#@ arsocial_lite
+msgid "VK Like"
+msgstr "VK Like"
+
+#: core/views/ars_like.php:377
+#: core/views/ars_like_setting.php:296
+#@ arsocial_lite
+msgid "Viadeo"
+msgstr "Viadeo"
+
+#: core/views/ars_like.php:397
+#: core/views/ars_like_setting.php:317
+#@ arsocial_lite
+msgid "Youtube Subscribe"
+msgstr "Youtube Subscribe"
+
+#: core/views/ars_like.php:438
+#: core/views/ars_like_setting.php:372
+#: core/views/ars_like_setting.php:563
+#: core/views/ars_like_setting.php:766
+#: core/views/ars_like_setting.php:938
+#: core/views/ars_like_setting.php:1127
+#: social-share-and-social-locker-arsocial.php:1869
+#@ arsocial_lite
+msgid "Flat"
+msgstr "Flat"
+
+#: core/views/ars_like.php:441
+#: core/views/ars_like_setting.php:376
+#: core/views/ars_like_setting.php:566
+#: core/views/ars_like_setting.php:769
+#: core/views/ars_like_setting.php:941
+#: core/views/ars_like_setting.php:1130
+#: social-share-and-social-locker-arsocial.php:1871
+#@ arsocial_lite
+msgid "Classic"
+msgstr "Classic"
+
+#: core/views/ars_like.php:448
+#: core/views/ars_like_setting.php:450
+#: core/views/ars_like_setting.php:602
+#: core/views/ars_like_setting.php:842
+#: core/views/ars_like_setting.php:1005
+#: core/views/ars_like_setting.php:1202
+#@ arsocial_lite
+msgid "Load Native Buttons"
+msgstr "Load Native Buttons"
+
+#: core/views/ars_like.php:533
+#@ arsocial_lite
+msgid "Start Top Bar from Y Position"
+msgstr "Start Top Bar from Y Position"
+
+#: core/views/ars_like.php:724
+#@ arsocial_lite
+msgid "For CSS Class information related to like buttons,"
+msgstr "For CSS Class information related to like buttons,"
+
+#: core/views/ars_like_setting.php:439
+#@ arsocial_lite
+msgid "Start Top bar from Y Position"
+msgstr "Start Top bar from Y Position"
+
+#: core/views/ars_like_setting.php:564
+#@ arsocial_lite
+msgid "Modern"
+msgstr "Modern"
+
+#: core/views/ars_like_setting.php:565
+#@ arsocial_lite
+msgid "Iconic"
+msgstr "Iconic"
+
+#: core/views/ars_like_setting.php:645
+#@ arsocial_lite
+msgid "Display close button"
+msgstr "Display close button"
+
+#: core/views/ars_like_setting.php:930
+#@ arsocial_lite
+msgid "Posts Settings"
+msgstr "Posts Settings"
+
+#: core/views/ars_like_setting.php:1279
+#: core/views/ars_share_setting.php:2191
+#@ arsocial_lite
+msgid "Enter comma seperated product id where you do not want to display buttons."
+msgstr "Enter comma seperated product id where you do not want to display buttons."
+
+#: core/views/ars_like_setting.php:1479
+#@ arsocial_lite
+msgid "For CSS Class information related to Like Buttons,"
+msgstr "For CSS Class information related to Like Buttons,"
+
+#: core/views/ars_locker.php:6
+#: core/views/ars_locker_setting.php:6
+#@ arsocial_lite
+msgid "This Content is locked!"
+msgstr "This Content is locked!"
+
+#: core/views/ars_locker.php:9
+#: core/views/ars_locker_setting.php:7
+#@ arsocial_lite
+msgid "Like/Share on Facebook and Get your content"
+msgstr "Like/Share on Facebook and Get your content"
+
+#: core/views/ars_locker.php:79
+#: core/views/ars_locker.php:102
+#: core/views/ars_locker_setting.php:75
+#: core/views/ars_locker_setting.php:85
+#@ arsocial_lite
+msgid "Social Locker Configuration"
+msgstr "Social Locker Configuration"
+
+#: core/views/ars_locker.php:115
+#@ arsocial_lite
+msgid "Select Locker Type"
+msgstr "Select Locker Type"
+
+#: core/views/ars_locker.php:122
+#: core/views/ars_locker_setting.php:102
+#@ arsocial_lite
+msgid "Locker Type"
+msgstr "Locker Type"
+
+#: core/views/ars_locker.php:127
+#: core/views/ars_locker_setting.php:107
+#@ arsocial_lite
+msgid "Social Like & Share"
+msgstr "Social Like & Share"
+
+#: core/views/ars_locker.php:129
+#: core/views/ars_locker_setting.php:109
+#@ arsocial_lite
+msgid "Asks users to \"Unlock with a like\" or share to unlock content."
+msgstr "Asks users to \"Unlock with a like\" or share to unlock content."
+
+#: core/views/ars_locker.php:130
+#: core/views/ars_locker_setting.php:110
+#@ arsocial_lite
+msgid "Perfect way to get more followers, attract social traffic and improve some social metrics."
+msgstr "Perfect way to get more followers, attract social traffic and improve some social metrics."
+
+#: core/views/ars_locker.php:137
+#: core/views/ars_locker_setting.php:116
+#@ arsocial_lite
+msgid "Social Sign In"
+msgstr "Social Sign In"
+
+#: core/views/ars_locker.php:139
+#: core/views/ars_locker_setting.php:118
+#@ arsocial_lite
+msgid "Locks the content until the user signs in through social networks."
+msgstr "Locks the content until the user signs in through social networks."
+
+#: core/views/ars_locker.php:187
+#: core/views/ars_locker_setting.php:271
+#@ arsocial_lite
+msgid "Facebook Like"
+msgstr "Facebook Like"
+
+#: core/views/ars_locker.php:193
+#: core/views/ars_locker_setting.php:277
+#@ arsocial_lite
+msgid "Set an URL of facebook page or website page which user has to like in order to unlock your content. Leave this field blank to use URL of page where this locker will be located."
+msgstr "Set an URL of facebook page or website page which user has to like in order to unlock your content. Leave this field blank to use URL of page where this locker will be located."
+
+#: core/views/ars_locker.php:198
+#: core/views/ars_locker_setting.php:282
+#: core/views/ars_locker_setting.php:350
+#: core/views/ars_locker_setting.php:387
+#: core/views/ars_locker_setting.php:414
+#: core/views/ars_share.php:478
+#: core/views/ars_share_setting.php:337
+#: core/views/ars_share_setting.php:600
+#: core/views/ars_share_setting.php:917
+#: core/views/ars_share_setting.php:1422
+#: core/views/ars_share_setting.php:1723
+#: core/views/ars_share_setting.php:2046
+#@ arsocial_lite
+msgid "Show Counter"
+msgstr "Show Counter"
+
+#: core/views/ars_locker.php:214
+#: core/views/ars_locker_setting.php:298
+#@ arsocial_lite
+msgid "Twitter Tweet"
+msgstr "Twitter Tweet"
+
+#: core/views/ars_locker.php:219
+#: core/views/ars_locker_setting.php:303
+#@ arsocial_lite
+msgid "URL to Tweet"
+msgstr "URL to Tweet"
+
+#: core/views/ars_locker.php:221
+#: core/views/ars_locker_setting.php:305
+#@ arsocial_lite
+msgid "Set an URL which user has to tweet in order to unlock your content. Leave this field blank to use URL of page where this locker will be located."
+msgstr "Set an URL which user has to tweet in order to unlock your content. Leave this field blank to use URL of page where this locker will be located."
+
+#: core/classes/class.ars_locker.php:1129
+#: core/views/ars_locker.php:226
+#: core/views/ars_locker_setting.php:310
+#@ arsocial_lite
+msgid "Tweet"
+msgstr "Tweet"
+
+#: core/views/ars_locker.php:228
+#: core/views/ars_locker_setting.php:312
+#@ arsocial_lite
+msgid "Type a message to tweet. Leave this field empty to use default tweet (page title + URL)."
+msgstr "Type a message to tweet. Leave this field empty to use default tweet (page title + URL)."
+
+#: core/views/ars_locker.php:233
+#: core/views/ars_locker_setting.php:317
+#@ arsocial_lite
+msgid "Via"
+msgstr "Via"
+
+#: core/views/ars_locker.php:235
+#: core/views/ars_locker_setting.php:319
+#@ arsocial_lite
+msgid "Optional. Type Screen name of ther user to attribute the Tweet to ( without @ )."
+msgstr "Optional. Type Screen name of ther user to attribute the Tweet to ( without @ )."
+
+#: core/views/ars_locker.php:252
+#: core/views/ars_locker_setting.php:338
+#@ arsocial_lite
+msgid "Facebook Share"
+msgstr "Facebook Share"
+
+#: core/views/ars_locker.php:273
+#: core/views/ars_locker_setting.php:402
+#@ arsocial_lite
+msgid "Linkedin Share"
+msgstr "Linkedin Share"
+
+#: core/views/ars_locker.php:300
+#: core/views/ars_locker.php:323
+#: core/views/ars_locker.php:346
+#: core/views/ars_locker_setting.php:444
+#: core/views/ars_locker_setting.php:467
+#: core/views/ars_locker_setting.php:490
+#@ arsocial_lite
+msgid "Create Account"
+msgstr "Create Account"
+
+#: core/views/ars_locker.php:359
+#@ arsocial_lite
+msgid "Please select locker type from locker details"
+msgstr "Please select locker type from locker details"
+
+#: core/views/ars_locker.php:389
+#: core/views/ars_locker_setting.php:526
+#@ arsocial_lite
+msgid "Overlap Mode"
+msgstr "Overlap Mode"
+
+#: core/views/ars_locker.php:393
+#: core/views/ars_locker_setting.php:531
+#@ arsocial_lite
+msgid "Full (classic)"
+msgstr "Full (classic)"
+
+#: core/views/ars_locker.php:397
+#: core/views/ars_locker_setting.php:535
+#@ arsocial_lite
+msgid "Transparency"
+msgstr "Transparency"
+
+#: core/views/ars_locker.php:401
+#: core/views/ars_locker_setting.php:540
+#@ arsocial_lite
+msgid "Blurring"
+msgstr "Blurring"
+
+#: core/views/ars_locker.php:406
+#: core/views/ars_locker_setting.php:545
+#@ arsocial_lite
+msgid "Locker Heading"
+msgstr "Locker Heading"
+
+#: core/views/ars_locker.php:413
+#: core/views/ars_locker_setting.php:552
+#@ arsocial_lite
+msgid "Time Interval"
+msgstr "Time Interval"
+
+#: core/views/ars_locker.php:431
+#: core/views/ars_locker_setting.php:574
+#@ arsocial_lite
+msgid "Please enter time interval in seconds"
+msgstr "Please enter time interval in seconds"
+
+#: core/views/ars_locker.php:437
+#: core/views/ars_locker_setting.php:579
+#: core/views/ars_share_setting.php:1182
+#@ arsocial_lite
+msgid "Background Color"
+msgstr "Background Color"
+
+#: core/views/ars_locker.php:443
+#: core/views/ars_locker_setting.php:586
+#@ arsocial_lite
+msgid "Text Color"
+msgstr "Text Color"
+
+#: core/views/ars_locker.php:451
+#: core/views/ars_locker_setting.php:593
+#@ arsocial_lite
+msgid "Locker Content"
+msgstr "Locker Content"
+
+#: core/views/ars_locker.php:537
+#@ arsocial_lite
+msgid "For CSS Class information related to locker,"
+msgstr "For CSS Class information related to locker,"
+
+#: core/views/ars_locker_setting.php:97
+#@ arsocial_lite
+msgid " Select Locker Type"
+msgstr " Select Locker Type"
+
+#: core/views/ars_locker_setting.php:132
+#@ arsocial_lite
+msgid "Paragraph wise lock"
+msgstr "Paragraph wise lock"
+
+#: core/views/ars_locker_setting.php:147
+#@ arsocial_lite
+msgid "Lock after paragraph"
+msgstr "Lock after paragraph"
+
+#: core/views/ars_locker_setting.php:156
+#@ arsocial_lite
+msgid "Enter number of paragraphs to skip. e.g. if you enter 3, three paragraphs will be visible, others will be locked."
+msgstr "Enter number of paragraphs to skip. e.g. if you enter 3, three paragraphs will be visible, others will be locked."
+
+#: core/views/ars_locker_setting.php:162
+#@ arsocial_lite
+msgid "Css class wise lock"
+msgstr "Css class wise lock"
+
+#: core/views/ars_locker_setting.php:194
+#@ arsocial_lite
+msgid "Category wise lock"
+msgstr "Category wise lock"
+
+#: core/views/ars_locker_setting.php:211
+#@ arsocial_lite
+msgid "Tag wise lock"
+msgstr "Tag wise lock"
+
+#: core/views/ars_locker_setting.php:228
+#@ arsocial_lite
+msgid "Enter Tag names"
+msgstr "Enter Tag names"
+
+#: core/views/ars_locker_setting.php:232
+#@ arsocial_lite
+msgid "Enter tag name separated by comma(,) which you have applied on element to lock content."
+msgstr "Enter tag name separated by comma(,) which you have applied on element to lock content."
+
+#: core/views/ars_locker_setting.php:233
+#@ arsocial_lite
+msgid "Please Enter Comma Separated Tag Names"
+msgstr "Please Enter Comma Separated Tag Names"
+
+#: core/views/ars_locker_setting.php:343
+#@ arsocial_lite
+msgid "URL to share"
+msgstr "URL to share"
+
+#: core/views/ars_locker_setting.php:345
+#@ arsocial_lite
+msgid "Set an URL which user has to share on facebook in order to unlock your content. Leave this field empty to use URL of the page where this locker will be located."
+msgstr "Set an URL which user has to share on facebook in order to unlock your content. Leave this field empty to use URL of the page where this locker will be located."
+
+#: core/views/ars_locker_setting.php:371
+#@ arsocial_lite
+msgid "User to Follow"
+msgstr "User to Follow"
+
+#: core/views/ars_locker_setting.php:373
+#@ arsocial_lite
+msgid "Set a full URL of your Twitter profile which the user has to follow in order to unlock you content."
+msgstr "Set a full URL of your Twitter profile which the user has to follow in order to unlock you content."
+
+#: core/views/ars_locker_setting.php:378
+#@ arsocial_lite
+msgid "Show username"
+msgstr "Show username"
+
+#: core/views/ars_locker_setting.php:407
+#@ arsocial_lite
+msgid "URL to Share"
+msgstr "URL to Share"
+
+#: core/views/ars_locker_setting.php:409
+#@ arsocial_lite
+msgid "Set an URL which user has to share in order to unlock your content. Leave this field empty to use an URL of the page where the locker will be located"
+msgstr "Set an URL which user has to share in order to unlock your content. Leave this field empty to use an URL of the page where the locker will be located"
+
+#: core/views/ars_locker_setting.php:660
+#@ arsocial_lite
+msgid "Select Position(s) Where You Want To Display Locker"
+msgstr "Select Position(s) Where You Want To Display Locker"
+
+#: core/views/ars_locker_setting.php:756
+#: core/views/ars_share.php:724
+#: core/views/ars_share_setting.php:2400
+#@ arsocial_lite
+msgid "For CSS Class information related to sharing buttons,"
+msgstr "For CSS Class information related to sharing buttons,"
+
+#: core/views/ars_share.php:107
+#: core/views/ars_share.php:750
+#: core/views/ars_share_setting.php:106
+#: core/views/ars_share_setting.php:2427
+#@ arsocial_lite
+msgid "Social Share Button Configuration"
+msgstr "Social Share Button Configuration"
+
+#: core/views/ars_share.php:122
+#@ arsocial_lite
+msgid "Select Position Where You Want To Display Share Buttons"
+msgstr "Select Position Where You Want To Display Share Buttons"
+
+#: core/views/ars_share.php:286
+#: core/views/ars_share_setting.php:520
+#: core/views/ars_share_setting.php:817
+#: core/views/ars_share_setting.php:1332
+#: core/views/ars_share_setting.php:1632
+#: core/views/ars_share_setting.php:1973
+#@ arsocial_lite
+msgid "Button Style"
+msgstr "Button Style"
+
+#: core/views/ars_share.php:308
+#: core/views/ars_share_setting.php:277
+#: core/views/ars_share_setting.php:535
+#: core/views/ars_share_setting.php:832
+#: core/views/ars_share_setting.php:1103
+#: core/views/ars_share_setting.php:1347
+#: core/views/ars_share_setting.php:1647
+#: core/views/ars_share_setting.php:1989
+#@ arsocial_lite
+msgid "Hover Animation"
+msgstr "Hover Animation"
+
+#: core/views/ars_share.php:333
+#: core/views/ars_share_setting.php:551
+#: core/views/ars_share_setting.php:1005
+#: core/views/ars_share_setting.php:1363
+#: core/views/ars_share_setting.php:1663
+#: core/views/ars_share_setting.php:2004
+#@ arsocial_lite
+msgid "Remove Space From Buttons"
+msgstr "Remove Space From Buttons"
+
+#: core/views/ars_share.php:424
+#: core/views/ars_share_setting.php:310
+#: core/views/ars_share_setting.php:717
+#: core/views/ars_share_setting.php:878
+#: core/views/ars_share_setting.php:1381
+#: core/views/ars_share_setting.php:1681
+#: core/views/ars_share_setting.php:2116
+#@ arsocial_lite
+msgid "Display Total Share Count"
+msgstr "Display Total Share Count"
+
+#: core/views/ars_share.php:440
+#: core/views/ars_share_setting.php:326
+#: core/views/ars_share_setting.php:733
+#: core/views/ars_share_setting.php:894
+#: core/views/ars_share_setting.php:1397
+#: core/views/ars_share_setting.php:1697
+#: core/views/ars_share_setting.php:2132
+#@ arsocial_lite
+msgid "Total Share Counter Label"
+msgstr "Total Share Counter Label"
+
+#: core/views/ars_share.php:449
+#: core/views/ars_share_setting.php:742
+#: core/views/ars_share_setting.php:903
+#: core/views/ars_share_setting.php:1406
+#: core/views/ars_share_setting.php:1706
+#: core/views/ars_share_setting.php:2141
+#@ arsocial_lite
+msgid "Total Share Counter Position"
+msgstr "Total Share Counter Position"
+
+#: core/views/ars_share.php:664
+#@ arsocial_lite
+msgid "Display Top Bar after Y position"
+msgstr "Display Top Bar after Y position"
+
+#: core/views/ars_share_setting.php:290
+#@ arsocial_lite
+msgid "Remove Space Between Buttons"
+msgstr "Remove Space Between Buttons"
+
+#: core/views/ars_share_setting.php:593
+#@ arsocial_lite
+msgid "Start Top bar from Y position"
+msgstr "Start Top bar from Y position"
+
+#: core/views/ars_share_setting.php:1048
+#@ arsocial_lite
+msgid "Media Settings"
+msgstr "Media Settings"
+
+#: core/views/ars_share_setting.php:1069
+#@ arsocial_lite
+msgid "Select Position"
+msgstr "Select Position"
+
+#: core/views/ars_share_setting.php:1081
+#@ arsocial_lite
+msgid "Top Left"
+msgstr "Top Left"
+
+#: core/views/ars_share_setting.php:1085
+#@ arsocial_lite
+msgid "Top Right"
+msgstr "Top Right"
+
+#: core/views/ars_share_setting.php:1094
+#@ arsocial_lite
+msgid "Bottom Left"
+msgstr "Bottom Left"
+
+#: core/views/ars_share_setting.php:1098
+#@ arsocial_lite
+msgid "Bottom Right"
+msgstr "Bottom Right"
+
+#: core/views/ars_share_setting.php:1118
+#@ arsocial_lite
+msgid "Disable Button Under x Height"
+msgstr "Disable Button Under x Height"
+
+#: core/views/ars_share_setting.php:1124
+#@ arsocial_lite
+msgid "Disable Button Under x Width"
+msgstr "Disable Button Under x Width"
+
+#: core/views/ars_share_setting.php:1168
+#@ arsocial_lite
+msgid "Enable Background Color"
+msgstr "Enable Background Color"
+
+#: core/views/ars_share_setting.php:1189
+#@ arsocial_lite
+msgid "Opacity"
+msgstr "Opacity"
+
+#: core/views/ars_share_setting.php:2190
+#@ arsocial_lite
+msgid "Exclude Product"
+msgstr "Exclude Product"
+
+#: core/views/ars_share_setting.php:2302
+#@ arsocial_lite
+msgid "Footer Bar Buttons"
+msgstr "Footer Bar Buttons"
+
+#: core/views/ars_share_setting.php:2362
+#@ arsocial_lite
+msgid "Hide Top Bottom Bar"
+msgstr "Hide Top Bottom Bar"
+
+#: core/views/ars_shortcode.php:128
+#@ arsocial_lite
+msgid "Manage Shortcodes ( Share, Like/Follow/Subscribe, Locker & Fan Counter )"
+msgstr "Manage Shortcodes ( Share, Like/Follow/Subscribe, Locker & Fan Counter )"
+
+#: core/views/ars_shortcode.php:136
+#@ arsocial_lite
+msgid "Generate Shortcode"
+msgstr "Generate Shortcode"
+
+#: core/views/ars_shortcode.php:146
+#@ arsocial_lite
+msgid "Shortcode Type"
+msgstr "Shortcode Type"
+
+#: core/views/ars_shortcode.php:147
+#@ arsocial_lite
+msgid "Selected Networks"
+msgstr "Selected Networks"
+
+#: core/views/ars_shortcode.php:148
+#@ arsocial_lite
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: core/views/ars_shortcode.php:149
+#@ arsocial_lite
+msgid "Created Date"
+msgstr "Created Date"
+
+#: core/views/ars_shortcode.php:150
+#@ arsocial_lite
+msgid "Action"
+msgstr "Action"
+
+#: core/views/ars_shortcode.php:154
+#@ arsocial_lite
+msgid "No Any Shortcode Created"
+msgstr "No Any Shortcode Created"
+
+#: core/views/ars_shortcode.php:202
+#@ arsocial_lite
+msgid "Edit"
+msgstr "Edit"
+
+#: core/views/ars_shortcode.php:204
+#@ arsocial_lite
+msgid "Delete"
+msgstr "Delete"
+
+#: core/views/ars_shortcode.php:207
+#@ arsocial_lite
+msgid "Are you sure want to delete this setup?"
+msgstr "Are you sure want to delete this setup?"
+
+#: core/views/ars_shortcode.php:210
+#@ arsocial_lite
+msgid "ok"
+msgstr "ok"
+
+#: core/views/ars_shortcode.php:217
+#@ arsocial_lite
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: core/views/ars_shortcode.php:282
+#@ arsocial_lite
+msgid "Select Shortcode Type"
+msgstr "Select Shortcode Type"
+
+#: core/views/ars_shortcode.php:302
+#@ arsocial_lite
+msgid "Submit"
+msgstr "Submit"
+
+#: core/views/ars_upgrade_to_premium.php:8
+#@ arsocial_lite
+msgid "Upgrade to Premium"
+msgstr "Upgrade to Premium"
+
+#: social-share-and-social-locker-arsocial.php:652
+#@ arsocial_lite
+msgid "Manage Social Share Networks"
+msgstr "Manage Social Share Networks"
+
+#: social-share-and-social-locker-arsocial.php:653
+#@ arsocial_lite
+msgid "Manage Social Like Networks"
+msgstr "Manage Social Like Networks"
+
+#: social-share-and-social-locker-arsocial.php:654
+#@ arsocial_lite
+msgid "Manage Social Fan Counter Networks"
+msgstr "Manage Social Fan Counter Networks"
+
+#: social-share-and-social-locker-arsocial.php:655
+#@ arsocial_lite
+msgid "Manage Social Locker"
+msgstr "Manage Social Locker"
+
+#: social-share-and-social-locker-arsocial.php:656
+#@ arsocial_lite
+msgid "Add, Update and Delete Shortcode of Social Share, Like, Fan Counter and Locker"
+msgstr "Add, Update and Delete Shortcode of Social Share, Like, Fan Counter and Locker"
+
+#: social-share-and-social-locker-arsocial.php:657
+#@ arsocial_lite
+msgid "View Analytics of Social Share, Like, Fan counter and Locker"
+msgstr "View Analytics of Social Share, Like, Fan counter and Locker"
+
+#: social-share-and-social-locker-arsocial.php:658
+#@ arsocial_lite
+msgid "Manage Global Settings like Social Configuration, Email Configuration etc"
+msgstr "Manage Global Settings like Social Configuration, Email Configuration etc"
+
+#: social-share-and-social-locker-arsocial.php:1834
+#@ arsocial_lite
+msgid "Page"
+msgstr "Page"
+
+#: social-share-and-social-locker-arsocial.php:1835
+#: social-share-and-social-locker-arsocial.php:1842
+#@ arsocial_lite
+msgid "User Profile"
+msgstr "User Profile"
+
+#: social-share-and-social-locker-arsocial.php:1841
+#@ arsocial_lite
+msgid "Company Page"
+msgstr "Company Page"
+
+#: social-share-and-social-locker-arsocial.php:1848
+#: social-share-and-social-locker-arsocial.php:1855
+#@ arsocial_lite
+msgid "Channel"
+msgstr "Channel"
+
+#: social-share-and-social-locker-arsocial.php:1849
+#: social-share-and-social-locker-arsocial.php:1856
+#@ arsocial_lite
+msgid "User"
+msgstr "User"
+
+#: social-share-and-social-locker-arsocial.php:1862
+#@ arsocial_lite
+msgid "Community"
+msgstr "Community"
+
+#: social-share-and-social-locker-arsocial.php:1863
+#@ arsocial_lite
+msgid "Profile"
+msgstr "Profile"
+
+#: social-share-and-social-locker-arsocial.php:1882
+#@ arsocial_lite
+msgid "1000, 10000"
+msgstr "1000, 10000"
+
+#: social-share-and-social-locker-arsocial.php:1883
+#@ arsocial_lite
+msgid "1.000, 10.000"
+msgstr "1.000, 10.000"
+
+#: social-share-and-social-locker-arsocial.php:1884
+#@ arsocial_lite
+msgid "1,000, 10,000"
+msgstr "1,000, 10,000"
+
+#: social-share-and-social-locker-arsocial.php:1885
+#@ arsocial_lite
+msgid "1 000, 10 000"
+msgstr "1 000, 10 000"
+
+#: social-share-and-social-locker-arsocial.php:1886
+#@ arsocial_lite
+msgid "1k, 10k, 100k, 1m"
+msgstr "1k, 10k, 100k, 1m"
+
+#: social-share-and-social-locker-arsocial.php:1906
+#@ arsocial_lite
+msgid "Standard"
+msgstr "Standard"
+
+#: social-share-and-social-locker-arsocial.php:1907
+#@ arsocial_lite
+msgid "Box Count"
+msgstr "Box Count"
+
+#: social-share-and-social-locker-arsocial.php:1908
+#@ arsocial_lite
+msgid "Button Count"
+msgstr "Button Count"
+
+#: social-share-and-social-locker-arsocial.php:1909
+#: social-share-and-social-locker-arsocial.php:2015
+#@ arsocial_lite
+msgid "Button"
+msgstr "Button"
+
+#: core/classes/class.ars_locker.php:1114
+#: social-share-and-social-locker-arsocial.php:1912
+#: social-share-and-social-locker-arsocial.php:1990
+#@ arsocial_lite
+msgid "Like"
+msgstr "Like"
+
+#: social-share-and-social-locker-arsocial.php:1913
+#: social-share-and-social-locker-arsocial.php:1914
+#@ arsocial_lite
+msgid "Recommend"
+msgstr "Recommend"
+
+#: social-share-and-social-locker-arsocial.php:1917
+#@ arsocial_lite
+msgid "Light"
+msgstr "Light"
+
+#: social-share-and-social-locker-arsocial.php:1918
+#: social-share-and-social-locker-arsocial.php:1961
+#@ arsocial_lite
+msgid "Dark"
+msgstr "Dark"
+
+#: social-share-and-social-locker-arsocial.php:2014
+#@ arsocial_lite
+msgid "Default"
+msgstr "Default"
+
+#: social-share-and-social-locker-arsocial.php:1923
+#: social-share-and-social-locker-arsocial.php:2326
+#@ arsocial_lite
+msgid "Automatic"
+msgstr "Automatic"
+
+#: social-share-and-social-locker-arsocial.php:1924
+#: social-share-and-social-locker-arsocial.php:2155
+#: social-share-and-social-locker-arsocial.php:2327
+#@ arsocial_lite
+msgid "French"
+msgstr "French"
+
+#: social-share-and-social-locker-arsocial.php:1925
+#: social-share-and-social-locker-arsocial.php:1984
+#: social-share-and-social-locker-arsocial.php:2148
+#: social-share-and-social-locker-arsocial.php:2328
+#@ arsocial_lite
+msgid "English"
+msgstr "English"
+
+#: social-share-and-social-locker-arsocial.php:1926
+#: social-share-and-social-locker-arsocial.php:2149
+#: social-share-and-social-locker-arsocial.php:2183
+#: social-share-and-social-locker-arsocial.php:2329
+#@ arsocial_lite
+msgid "Arabic"
+msgstr "Arabic"
+
+#: social-share-and-social-locker-arsocial.php:1927
+#: social-share-and-social-locker-arsocial.php:1985
+#: social-share-and-social-locker-arsocial.php:2159
+#: social-share-and-social-locker-arsocial.php:2239
+#: social-share-and-social-locker-arsocial.php:2330
+#@ arsocial_lite
+msgid "Japanese"
+msgstr "Japanese"
+
+#: social-share-and-social-locker-arsocial.php:1928
+#: social-share-and-social-locker-arsocial.php:2167
+#: social-share-and-social-locker-arsocial.php:2211
+#: social-share-and-social-locker-arsocial.php:2331
+#@ arsocial_lite
+msgid "Spanish"
+msgstr "Spanish"
+
+#: social-share-and-social-locker-arsocial.php:1929
+#: social-share-and-social-locker-arsocial.php:2156
+#: social-share-and-social-locker-arsocial.php:2200
+#: social-share-and-social-locker-arsocial.php:2332
+#@ arsocial_lite
+msgid "German"
+msgstr "German"
+
+#: social-share-and-social-locker-arsocial.php:1930
+#: social-share-and-social-locker-arsocial.php:2158
+#: social-share-and-social-locker-arsocial.php:2238
+#: social-share-and-social-locker-arsocial.php:2333
+#@ arsocial_lite
+msgid "Italian"
+msgstr "Italian"
+
+#: social-share-and-social-locker-arsocial.php:1931
+#: social-share-and-social-locker-arsocial.php:2157
+#: social-share-and-social-locker-arsocial.php:2235
+#: social-share-and-social-locker-arsocial.php:2334
+#@ arsocial_lite
+msgid "Indonesian"
+msgstr "Indonesian"
+
+#: social-share-and-social-locker-arsocial.php:1932
+#: social-share-and-social-locker-arsocial.php:2164
+#: social-share-and-social-locker-arsocial.php:2335
+#@ arsocial_lite
+msgid "Portuguese"
+msgstr "Portuguese"
+
+#: social-share-and-social-locker-arsocial.php:1933
+#: social-share-and-social-locker-arsocial.php:2160
+#: social-share-and-social-locker-arsocial.php:2245
+#: social-share-and-social-locker-arsocial.php:2336
+#@ arsocial_lite
+msgid "Korean"
+msgstr "Korean"
+
+#: social-share-and-social-locker-arsocial.php:1934
+#: social-share-and-social-locker-arsocial.php:2171
+#: social-share-and-social-locker-arsocial.php:2303
+#: social-share-and-social-locker-arsocial.php:2337
+#@ arsocial_lite
+msgid "Turkish"
+msgstr "Turkish"
+
+#: social-share-and-social-locker-arsocial.php:1935
+#: social-share-and-social-locker-arsocial.php:2166
+#: social-share-and-social-locker-arsocial.php:2280
+#: social-share-and-social-locker-arsocial.php:2338
+#@ arsocial_lite
+msgid "Russian"
+msgstr "Russian"
+
+#: social-share-and-social-locker-arsocial.php:1936
+#: social-share-and-social-locker-arsocial.php:2154
+#: social-share-and-social-locker-arsocial.php:2268
+#: social-share-and-social-locker-arsocial.php:2339
+#@ arsocial_lite
+msgid "Dutch"
+msgstr "Dutch"
+
+#: social-share-and-social-locker-arsocial.php:1937
+#: social-share-and-social-locker-arsocial.php:2301
+#: social-share-and-social-locker-arsocial.php:2340
+#@ arsocial_lite
+msgid "Filipino"
+msgstr "Filipino"
+
+#: social-share-and-social-locker-arsocial.php:1938
+#: social-share-and-social-locker-arsocial.php:2161
+#: social-share-and-social-locker-arsocial.php:2261
+#: social-share-and-social-locker-arsocial.php:2341
+#@ arsocial_lite
+msgid "Malay"
+msgstr "Malay"
+
+#: social-share-and-social-locker-arsocial.php:1939
+#: social-share-and-social-locker-arsocial.php:2342
+#@ arsocial_lite
+msgid "Traditional Chinese"
+msgstr "Traditional Chinese"
+
+#: social-share-and-social-locker-arsocial.php:1940
+#: social-share-and-social-locker-arsocial.php:2343
+#@ arsocial_lite
+msgid "Simplified Chinese"
+msgstr "Simplified Chinese"
+
+#: social-share-and-social-locker-arsocial.php:1941
+#: social-share-and-social-locker-arsocial.php:2232
+#: social-share-and-social-locker-arsocial.php:2344
+#@ arsocial_lite
+msgid "Hindi"
+msgstr "Hindi"
+
+#: social-share-and-social-locker-arsocial.php:1942
+#: social-share-and-social-locker-arsocial.php:2162
+#: social-share-and-social-locker-arsocial.php:2345
+#@ arsocial_lite
+msgid "Norwegian"
+msgstr "Norwegian"
+
+#: social-share-and-social-locker-arsocial.php:1943
+#: social-share-and-social-locker-arsocial.php:2168
+#: social-share-and-social-locker-arsocial.php:2292
+#: social-share-and-social-locker-arsocial.php:2346
+#@ arsocial_lite
+msgid "Swedish"
+msgstr "Swedish"
+
+#: social-share-and-social-locker-arsocial.php:1944
+#: social-share-and-social-locker-arsocial.php:2219
+#: social-share-and-social-locker-arsocial.php:2347
+#@ arsocial_lite
+msgid "Finnish"
+msgstr "Finnish"
+
+#: social-share-and-social-locker-arsocial.php:1945
+#: social-share-and-social-locker-arsocial.php:2153
+#: social-share-and-social-locker-arsocial.php:2199
+#: social-share-and-social-locker-arsocial.php:2348
+#@ arsocial_lite
+msgid "Danish"
+msgstr "Danish"
+
+#: social-share-and-social-locker-arsocial.php:1946
+#: social-share-and-social-locker-arsocial.php:2163
+#: social-share-and-social-locker-arsocial.php:2273
+#: social-share-and-social-locker-arsocial.php:2349
+#@ arsocial_lite
+msgid "Polish"
+msgstr "Polish"
+
+#: social-share-and-social-locker-arsocial.php:1947
+#: social-share-and-social-locker-arsocial.php:2234
+#: social-share-and-social-locker-arsocial.php:2350
+#@ arsocial_lite
+msgid "Hungarian"
+msgstr "Hungarian"
+
+#: social-share-and-social-locker-arsocial.php:1948
+#: social-share-and-social-locker-arsocial.php:2351
+#@ arsocial_lite
+msgid "Farsi"
+msgstr "Farsi"
+
+#: social-share-and-social-locker-arsocial.php:1949
+#: social-share-and-social-locker-arsocial.php:2231
+#: social-share-and-social-locker-arsocial.php:2352
+#@ arsocial_lite
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: social-share-and-social-locker-arsocial.php:1950
+#: social-share-and-social-locker-arsocial.php:2307
+#: social-share-and-social-locker-arsocial.php:2353
+#@ arsocial_lite
+msgid "Urdu"
+msgstr "Urdu"
+
+#: social-share-and-social-locker-arsocial.php:1951
+#: social-share-and-social-locker-arsocial.php:2170
+#: social-share-and-social-locker-arsocial.php:2299
+#: social-share-and-social-locker-arsocial.php:2354
+#@ arsocial_lite
+msgid "Thai"
+msgstr "Thai"
+
+#: social-share-and-social-locker-arsocial.php:1956
+#: social-share-and-social-locker-arsocial.php:1960
+#: social-share-and-social-locker-arsocial.php:1964
+#@ arsocial_lite
+msgid "Dafault"
+msgstr "Dafault"
+
+#: social-share-and-social-locker-arsocial.php:1957
+#@ arsocial_lite
+msgid "Full"
+msgstr "Full"
+
+#: social-share-and-social-locker-arsocial.php:1965
+#@ arsocial_lite
+msgid "Hidden"
+msgstr "Hidden"
+
+#: social-share-and-social-locker-arsocial.php:1968
+#@ arsocial_lite
+msgid "Channel Id"
+msgstr "Channel Id"
+
+#: social-share-and-social-locker-arsocial.php:1969
+#@ arsocial_lite
+msgid "Channel Name"
+msgstr "Channel Name"
+
+#: social-share-and-social-locker-arsocial.php:1974
+#: social-share-and-social-locker-arsocial.php:2027
+#@ arsocial_lite
+msgid "Red"
+msgstr "Red"
+
+#: social-share-and-social-locker-arsocial.php:1975
+#@ arsocial_lite
+msgid "Gray"
+msgstr "Gray"
+
+#: social-share-and-social-locker-arsocial.php:1976
+#: social-share-and-social-locker-arsocial.php:2028
+#: social-share-and-social-locker-arsocial.php:2039
+#@ arsocial_lite
+msgid "White"
+msgstr "White"
+
+#: social-share-and-social-locker-arsocial.php:1979
+#@ arsocial_lite
+msgid "Not Shown"
+msgstr "Not Shown"
+
+#: social-share-and-social-locker-arsocial.php:1980
+#@ arsocial_lite
+msgid "Above the Button"
+msgstr "Above the Button"
+
+#: social-share-and-social-locker-arsocial.php:1981
+#@ arsocial_lite
+msgid "Beside the Button"
+msgstr "Beside the Button"
+
+#: social-share-and-social-locker-arsocial.php:1991
+#@ arsocial_lite
+msgid "This is interesting"
+msgstr "This is interesting"
+
+#: social-share-and-social-locker-arsocial.php:1994
+#@ arsocial_lite
+msgid "Button with mini counter"
+msgstr "Button with mini counter"
+
+#: social-share-and-social-locker-arsocial.php:1995
+#@ arsocial_lite
+msgid "Button with text counter"
+msgstr "Button with text counter"
+
+#: social-share-and-social-locker-arsocial.php:1996
+#@ arsocial_lite
+msgid "Mini button"
+msgstr "Mini button"
+
+#: social-share-and-social-locker-arsocial.php:1997
+#@ arsocial_lite
+msgid "Mini button with counter at the top"
+msgstr "Mini button with counter at the top"
+
+#: social-share-and-social-locker-arsocial.php:2026
+#: social-share-and-social-locker-arsocial.php:2040
+#@ arsocial_lite
+msgid "Black"
+msgstr "Black"
+
+#: social-share-and-social-locker-arsocial.php:2008
+#@ arsocial_lite
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: social-share-and-social-locker-arsocial.php:2009
+#@ arsocial_lite
+msgid "No Count"
+msgstr "No Count"
+
+#: social-share-and-social-locker-arsocial.php:2016
+#@ arsocial_lite
+msgid "Integrated"
+msgstr "Integrated"
+
+#: social-share-and-social-locker-arsocial.php:2043
+#@ arsocial_lite
+msgid "I am on flickr"
+msgstr "I am on flickr"
+
+#: social-share-and-social-locker-arsocial.php:2044
+#@ arsocial_lite
+msgid "See my photos"
+msgstr "See my photos"
+
+#: social-share-and-social-locker-arsocial.php:2046
+#@ arsocial_lite
+msgid "Large Chiclet"
+msgstr "Large Chiclet"
+
+#: social-share-and-social-locker-arsocial.php:2047
+#@ arsocial_lite
+msgid "Small Chiclet"
+msgstr "Small Chiclet"
+
+#: social-share-and-social-locker-arsocial.php:2048
+#@ arsocial_lite
+msgid "Circle"
+msgstr "Circle"
+
+#: social-share-and-social-locker-arsocial.php:2180
+#@ arsocial_lite
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: social-share-and-social-locker-arsocial.php:2182
+#@ arsocial_lite
+msgid "Amharic"
+msgstr "Amharic"
+
+#: social-share-and-social-locker-arsocial.php:2215
+#@ arsocial_lite
+msgid "Basque"
+msgstr "Basque"
+
+#: social-share-and-social-locker-arsocial.php:2189
+#@ arsocial_lite
+msgid "Bengali"
+msgstr "Bengali"
+
+#: social-share-and-social-locker-arsocial.php:2188
+#@ arsocial_lite
+msgid "Bulgarian"
+msgstr "Bulgarian"
+
+#: social-share-and-social-locker-arsocial.php:2192
+#@ arsocial_lite
+msgid "Catalan"
+msgstr "Catalan"
+
+#: social-share-and-social-locker-arsocial.php:2233
+#@ arsocial_lite
+msgid "Croatian"
+msgstr "Croatian"
+
+#: social-share-and-social-locker-arsocial.php:2152
+#: social-share-and-social-locker-arsocial.php:2196
+#@ arsocial_lite
+msgid "Czech"
+msgstr "Czech"
+
+#: social-share-and-social-locker-arsocial.php:2214
+#@ arsocial_lite
+msgid "Estonian"
+msgstr "Estonian"
+
+#: social-share-and-social-locker-arsocial.php:2221
+#@ arsocial_lite
+msgid "French (Canada)"
+msgstr "French (Canada)"
+
+#: social-share-and-social-locker-arsocial.php:2222
+#@ arsocial_lite
+msgid "French (France)"
+msgstr "French (France)"
+
+#: social-share-and-social-locker-arsocial.php:2225
+#@ arsocial_lite
+msgid "Galician"
+msgstr "Galician"
+
+#: social-share-and-social-locker-arsocial.php:2201
+#@ arsocial_lite
+msgid "Greek"
+msgstr "Greek"
+
+#: social-share-and-social-locker-arsocial.php:2227
+#@ arsocial_lite
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: social-share-and-social-locker-arsocial.php:2237
+#@ arsocial_lite
+msgid "Icelandic"
+msgstr "Icelandic"
+
+#: social-share-and-social-locker-arsocial.php:2244
+#@ arsocial_lite
+msgid "Kannada"
+msgstr "Kannada"
+
+#: social-share-and-social-locker-arsocial.php:2254
+#@ arsocial_lite
+msgid "Latvian"
+msgstr "Latvian"
+
+#: social-share-and-social-locker-arsocial.php:2253
+#@ arsocial_lite
+msgid "Lithuanian"
+msgstr "Lithuanian"
+
+#: social-share-and-social-locker-arsocial.php:2258
+#@ arsocial_lite
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: social-share-and-social-locker-arsocial.php:2260
+#@ arsocial_lite
+msgid "Marathi"
+msgstr "Marathi"
+
+#: social-share-and-social-locker-arsocial.php:2216
+#@ arsocial_lite
+msgid "Persian"
+msgstr "Persian"
+
+#: social-share-and-social-locker-arsocial.php:2275
+#@ arsocial_lite
+msgid "Portuguese (Brazil)"
+msgstr "Portuguese (Brazil)"
+
+#: social-share-and-social-locker-arsocial.php:2276
+#@ arsocial_lite
+msgid "Portuguese (Portugal)"
+msgstr "Portuguese (Portugal)"
+
+#: social-share-and-social-locker-arsocial.php:2165
+#: social-share-and-social-locker-arsocial.php:2279
+#@ arsocial_lite
+msgid "Romanian"
+msgstr "Romanian"
+
+#: social-share-and-social-locker-arsocial.php:2291
+#@ arsocial_lite
+msgid "Serbian"
+msgstr "Serbian"
+
+#: social-share-and-social-locker-arsocial.php:2286
+#@ arsocial_lite
+msgid "Slovak"
+msgstr "Slovak"
+
+#: social-share-and-social-locker-arsocial.php:2287
+#@ arsocial_lite
+msgid "Slovenian"
+msgstr "Slovenian"
+
+#: social-share-and-social-locker-arsocial.php:2210
+#@ arsocial_lite
+msgid "Spanish (Spain)"
+msgstr "Spanish (Spain)"
+
+#: social-share-and-social-locker-arsocial.php:2293
+#@ arsocial_lite
+msgid "Swahili"
+msgstr "Swahili"
+
+#: social-share-and-social-locker-arsocial.php:2296
+#@ arsocial_lite
+msgid "Tamil"
+msgstr "Tamil"
+
+#: social-share-and-social-locker-arsocial.php:2297
+#@ arsocial_lite
+msgid "Telugu"
+msgstr "Telugu"
+
+#: social-share-and-social-locker-arsocial.php:2306
+#@ arsocial_lite
+msgid "Ukrainian"
+msgstr "Ukrainian"
+
+#: social-share-and-social-locker-arsocial.php:2309
+#@ arsocial_lite
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: social-share-and-social-locker-arsocial.php:2317
+#@ arsocial_lite
+msgid "Zulu"
+msgstr "Zulu"
+
+#: social-share-and-social-locker-arsocial.php:2150
+#@ arsocial_lite
+msgid "Chinese - Simplified"
+msgstr "Chinese - Simplified"
+
+#: social-share-and-social-locker-arsocial.php:2151
+#@ arsocial_lite
+msgid "Chinese - Traditional"
+msgstr "Chinese - Traditional"
+
+#: social-share-and-social-locker-arsocial.php:2169
+#@ arsocial_lite
+msgid "Tagalog"
+msgstr "Tagalog"
+
+#: social-share-and-social-locker-arsocial.php:2181
+#@ arsocial_lite
+msgid "Akan"
+msgstr "Akan"
+
+#: social-share-and-social-locker-arsocial.php:2184
+#@ arsocial_lite
+msgid "Assamese"
+msgstr "Assamese"
+
+#: social-share-and-social-locker-arsocial.php:2185
+#@ arsocial_lite
+msgid "Aymara"
+msgstr "Aymara"
+
+#: social-share-and-social-locker-arsocial.php:2186
+#@ arsocial_lite
+msgid "Azerbaijani"
+msgstr "Azerbaijani"
+
+#: social-share-and-social-locker-arsocial.php:2187
+#@ arsocial_lite
+msgid "Belarusian"
+msgstr "Belarusian"
+
+#: social-share-and-social-locker-arsocial.php:2190
+#@ arsocial_lite
+msgid "Breton"
+msgstr "Breton"
+
+#: social-share-and-social-locker-arsocial.php:2191
+#@ arsocial_lite
+msgid "Bosnian"
+msgstr "Bosnian"
+
+#: social-share-and-social-locker-arsocial.php:2193
+#@ arsocial_lite
+msgid "Sorani Kurdish"
+msgstr "Sorani Kurdish"
+
+#: social-share-and-social-locker-arsocial.php:2194
+#@ arsocial_lite
+msgid "Cherokee"
+msgstr "Cherokee"
+
+#: social-share-and-social-locker-arsocial.php:2195
+#@ arsocial_lite
+msgid "Corsican"
+msgstr "Corsican"
+
+#: social-share-and-social-locker-arsocial.php:2197
+#@ arsocial_lite
+msgid "Cebuano"
+msgstr "Cebuano"
+
+#: social-share-and-social-locker-arsocial.php:2198
+#@ arsocial_lite
+msgid "Welsh"
+msgstr "Welsh"
+
+#: social-share-and-social-locker-arsocial.php:2202
+#@ arsocial_lite
+msgid "English (UK)"
+msgstr "English (UK)"
+
+#: social-share-and-social-locker-arsocial.php:2203
+#@ arsocial_lite
+msgid "English (India)"
+msgstr "English (India)"
+
+#: social-share-and-social-locker-arsocial.php:2204
+#@ arsocial_lite
+msgid "English (Pirate)"
+msgstr "English (Pirate)"
+
+#: social-share-and-social-locker-arsocial.php:2205
+#@ arsocial_lite
+msgid "English (Upside Down)"
+msgstr "English (Upside Down)"
+
+#: social-share-and-social-locker-arsocial.php:2206
+#@ arsocial_lite
+msgid "English (US)"
+msgstr "English (US)"
+
+#: social-share-and-social-locker-arsocial.php:2207
+#@ arsocial_lite
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: social-share-and-social-locker-arsocial.php:2208
+#@ arsocial_lite
+msgid "Spanish (Chile)"
+msgstr "Spanish (Chile)"
+
+#: social-share-and-social-locker-arsocial.php:2209
+#@ arsocial_lite
+msgid "Spanish (Colombia)"
+msgstr "Spanish (Colombia)"
+
+#: social-share-and-social-locker-arsocial.php:2212
+#@ arsocial_lite
+msgid "Spanish (Mexico)"
+msgstr "Spanish (Mexico)"
+
+#: social-share-and-social-locker-arsocial.php:2213
+#@ arsocial_lite
+msgid "Spanish (Venezuela)"
+msgstr "Spanish (Venezuela)"
+
+#: social-share-and-social-locker-arsocial.php:2217
+#@ arsocial_lite
+msgid "Leet Speak"
+msgstr "Leet Speak"
+
+#: social-share-and-social-locker-arsocial.php:2218
+#@ arsocial_lite
+msgid "Fulah"
+msgstr "Fulah"
+
+#: social-share-and-social-locker-arsocial.php:2220
+#@ arsocial_lite
+msgid "Faroese"
+msgstr "Faroese"
+
+#: social-share-and-social-locker-arsocial.php:2223
+#@ arsocial_lite
+msgid "Frisian"
+msgstr "Frisian"
+
+#: social-share-and-social-locker-arsocial.php:2224
+#@ arsocial_lite
+msgid "Irish"
+msgstr "Irish"
+
+#: social-share-and-social-locker-arsocial.php:2226
+#@ arsocial_lite
+msgid "Guarani"
+msgstr "Guarani"
+
+#: social-share-and-social-locker-arsocial.php:2228
+#@ arsocial_lite
+msgid "Classical Greek"
+msgstr "Classical Greek"
+
+#: social-share-and-social-locker-arsocial.php:2229
+#: social-share-and-social-locker-arsocial.php:2230
+#@ arsocial_lite
+msgid "Hausa"
+msgstr "Hausa"
+
+#: social-share-and-social-locker-arsocial.php:2236
+#@ arsocial_lite
+msgid "Igbo"
+msgstr "Igbo"
+
+#: social-share-and-social-locker-arsocial.php:2240
+#@ arsocial_lite
+msgid "Japanese (Kansai)"
+msgstr "Japanese (Kansai)"
+
+#: social-share-and-social-locker-arsocial.php:2241
+#@ arsocial_lite
+msgid "Javanese"
+msgstr "Javanese"
+
+#: social-share-and-social-locker-arsocial.php:2242
+#@ arsocial_lite
+msgid "Georgian"
+msgstr "Georgian"
+
+#: social-share-and-social-locker-arsocial.php:2243
+#@ arsocial_lite
+msgid "Khmer"
+msgstr "Khmer"
+
+#: social-share-and-social-locker-arsocial.php:2246
+#@ arsocial_lite
+msgid "Kurdish (Kurmanji)"
+msgstr "Kurdish (Kurmanji)"
+
+#: social-share-and-social-locker-arsocial.php:2247
+#@ arsocial_lite
+msgid "Kyrgyz"
+msgstr "Kyrgyz"
+
+#: social-share-and-social-locker-arsocial.php:2248
+#@ arsocial_lite
+msgid "Latin"
+msgstr "Latin"
+
+#: social-share-and-social-locker-arsocial.php:2249
+#@ arsocial_lite
+msgid "Ganda"
+msgstr "Ganda"
+
+#: social-share-and-social-locker-arsocial.php:2250
+#@ arsocial_lite
+msgid "Limburgish"
+msgstr "Limburgish"
+
+#: social-share-and-social-locker-arsocial.php:2251
+#@ arsocial_lite
+msgid "Lingala"
+msgstr "Lingala"
+
+#: social-share-and-social-locker-arsocial.php:2252
+#@ arsocial_lite
+msgid "Lao"
+msgstr "Lao"
+
+#: social-share-and-social-locker-arsocial.php:2255
+#@ arsocial_lite
+msgid "Malagasy"
+msgstr "Malagasy"
+
+#: social-share-and-social-locker-arsocial.php:2256
+#@ arsocial_lite
+msgid "Maori"
+msgstr "Maori"
+
+#: social-share-and-social-locker-arsocial.php:2257
+#@ arsocial_lite
+msgid "Macedonian"
+msgstr "Macedonian"
+
+#: social-share-and-social-locker-arsocial.php:2259
+#@ arsocial_lite
+msgid "Mongolian"
+msgstr "Mongolian"
+
+#: social-share-and-social-locker-arsocial.php:2262
+#@ arsocial_lite
+msgid "Maltese"
+msgstr "Maltese"
+
+#: social-share-and-social-locker-arsocial.php:2263
+#@ arsocial_lite
+msgid "Burmese"
+msgstr "Burmese"
+
+#: social-share-and-social-locker-arsocial.php:2264
+#@ arsocial_lite
+msgid "Norwegian (bokmal)"
+msgstr "Norwegian (bokmal)"
+
+#: social-share-and-social-locker-arsocial.php:2265
+#@ arsocial_lite
+msgid "Ndebele"
+msgstr "Ndebele"
+
+#: social-share-and-social-locker-arsocial.php:2266
+#@ arsocial_lite
+msgid "Nepali"
+msgstr "Nepali"
+
+#: social-share-and-social-locker-arsocial.php:2267
+#@ arsocial_lite
+msgid "Dutch (België)"
+msgstr "Dutch (België)"
+
+#: social-share-and-social-locker-arsocial.php:2269
+#@ arsocial_lite
+msgid "Norwegian (nynorsk)"
+msgstr "Norwegian (nynorsk)"
+
+#: social-share-and-social-locker-arsocial.php:2270
+#@ arsocial_lite
+msgid "Chewa"
+msgstr "Chewa"
+
+#: social-share-and-social-locker-arsocial.php:2271
+#@ arsocial_lite
+msgid "Oriya"
+msgstr "Oriya"
+
+#: social-share-and-social-locker-arsocial.php:2272
+#@ arsocial_lite
+msgid "Punjabi"
+msgstr "Punjabi"
+
+#: social-share-and-social-locker-arsocial.php:2274
+#@ arsocial_lite
+msgid "Pashto"
+msgstr "Pashto"
+
+#: social-share-and-social-locker-arsocial.php:2277
+#@ arsocial_lite
+msgid "Quechua"
+msgstr "Quechua"
+
+#: social-share-and-social-locker-arsocial.php:2278
+#@ arsocial_lite
+msgid "Romansh"
+msgstr "Romansh"
+
+#: social-share-and-social-locker-arsocial.php:2281
+#@ arsocial_lite
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: social-share-and-social-locker-arsocial.php:2282
+#@ arsocial_lite
+msgid "Sanskrit"
+msgstr "Sanskrit"
+
+#: social-share-and-social-locker-arsocial.php:2283
+#@ arsocial_lite
+msgid "Sardinian"
+msgstr "Sardinian"
+
+#: social-share-and-social-locker-arsocial.php:2284
+#@ arsocial_lite
+msgid "Northern Sámi"
+msgstr "Northern Sámi"
+
+#: social-share-and-social-locker-arsocial.php:2285
+#@ arsocial_lite
+msgid "Sinhala"
+msgstr "Sinhala"
+
+#: social-share-and-social-locker-arsocial.php:2288
+#@ arsocial_lite
+msgid "Shona"
+msgstr "Shona"
+
+#: social-share-and-social-locker-arsocial.php:2289
+#@ arsocial_lite
+msgid "Somali"
+msgstr "Somali"
+
+#: social-share-and-social-locker-arsocial.php:2290
+#@ arsocial_lite
+msgid "Albanian"
+msgstr "Albanian"
+
+#: social-share-and-social-locker-arsocial.php:2294
+#@ arsocial_lite
+msgid "Syriac"
+msgstr "Syriac"
+
+#: social-share-and-social-locker-arsocial.php:2295
+#@ arsocial_lite
+msgid "Silesian"
+msgstr "Silesian"
+
+#: social-share-and-social-locker-arsocial.php:2298
+#@ arsocial_lite
+msgid "Tajik"
+msgstr "Tajik"
+
+#: social-share-and-social-locker-arsocial.php:2300
+#@ arsocial_lite
+msgid "Turkmen"
+msgstr "Turkmen"
+
+#: social-share-and-social-locker-arsocial.php:2302
+#@ arsocial_lite
+msgid "Klingon"
+msgstr "Klingon"
+
+#: social-share-and-social-locker-arsocial.php:2304
+#@ arsocial_lite
+msgid "Tatar"
+msgstr "Tatar"
+
+#: social-share-and-social-locker-arsocial.php:2305
+#@ arsocial_lite
+msgid "Tamazight"
+msgstr "Tamazight"
+
+#: social-share-and-social-locker-arsocial.php:2308
+#@ arsocial_lite
+msgid "Uzbek"
+msgstr "Uzbek"
+
+#: social-share-and-social-locker-arsocial.php:2310
+#@ arsocial_lite
+msgid "Wolof"
+msgstr "Wolof"
+
+#: social-share-and-social-locker-arsocial.php:2311
+#@ arsocial_lite
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: social-share-and-social-locker-arsocial.php:2312
+#@ arsocial_lite
+msgid "Yiddish"
+msgstr "Yiddish"
+
+#: social-share-and-social-locker-arsocial.php:2313
+#@ arsocial_lite
+msgid "Yoruba"
+msgstr "Yoruba"
+
+#: social-share-and-social-locker-arsocial.php:2314
+#@ arsocial_lite
+msgid "Simplified Chinese (China)"
+msgstr "Simplified Chinese (China)"
+
+#: social-share-and-social-locker-arsocial.php:2315
+#@ arsocial_lite
+msgid "Traditional Chinese (Hong Kong)"
+msgstr "Traditional Chinese (Hong Kong)"
+
+#: social-share-and-social-locker-arsocial.php:2316
+#@ arsocial_lite
+msgid "Traditional Chinese (Taiwan)"
+msgstr "Traditional Chinese (Taiwan)"
+
+#: social-share-and-social-locker-arsocial.php:2318
+#@ arsocial_lite
+msgid "Zazaki"
+msgstr "Zazaki"
+
+#: core/classes/class.ars_fan_counter.php:574
+#: core/classes/class.ars_like.php:375
+#@ arsocial_lite
+msgid "Setup has been deleted successfully."
+msgstr "Setup has been deleted successfully."
+
+#: core/classes/class.ars_locker.php:388
+#@ arsocial_lite
+msgid "Locker has been deleted successfully."
+msgstr "Locker has been deleted successfully."
+
+#: core/classes/class.ars_locker.php:421
+#: core/classes/class.ars_locker.php:509
+#: core/classes/class.ars_locker.php:548
+#@ arsocial_lite
+msgid "user already exists"
+msgstr "user already exists"
+
+#: core/classes/class.ars_locker.php:504
+#@ arsocial_lite
+msgid "email already exists"
+msgstr "email already exists"
+
+#: core/classes/class.ars_locker.php:537
+#@ arsocial_lite
+msgid "Couldn't login with twitter. Please try again."
+msgstr "Couldn't login with twitter. Please try again."
+
+#: core/classes/class.ars_locker.php:544
+#@ arsocial_lite
+msgid "email already exists."
+msgstr "email already exists."
+
+#: core/classes/class.ars_locker.php:1030
+#@ arsocial_lite
+msgid "Login"
+msgstr "Login"
+
+#: core/classes/class.ars_locker.php:1059
+#: core/classes/class.ars_locker.php:1069
+#@ arsocial_lite
+msgid "Sign in"
+msgstr "Sign in"
+
+#: core/classes/class.ars_locker.php:1155
+#@ arsocial_lite
+msgid "Share"
+msgstr "Share"
+
+#: core/classes/class.ars_locker.php:1175
+#@ arsocial_lite
+msgid "Follow"
+msgstr "Follow"
+
+#: core/classes/class.ars_share.php:1058
+#@ arsocial_lite
+msgid "invalid receipent email"
+msgstr "invalid receipent email"
+
+#: core/classes/class.ars_share.php:1063
+#@ arsocial_lite
+msgid "invalid sender email"
+msgstr "invalid sender email"
+
+#: core/classes/class.ars_share.php:1076
+#: core/classes/class.ars_share.php:1082
+#@ arsocial_lite
+msgid "message sent."
+msgstr "message sent."
+
+#: core/classes/class.ars_share.php:1078
+#: core/classes/class.ars_share.php:1084
+#@ arsocial_lite
+msgid "message could not sent."
+msgstr "message could not sent."
+
+#: core/classes/class.ars_share.php:1631
+#: core/classes/class.ars_share.php:1640
+#@ arsocial_lite
+msgid "Couldn't save network"
+msgstr "Couldn't save network"
+
+#: core/classes/class.ars_share.php:1653
+#@ arsocial_lite
+msgid "Network Deleted Successfully"
+msgstr "Network Deleted Successfully"
+
+#: core/classes/class.ars_share.php:1655
+#@ arsocial_lite
+msgid "Couldn't delete network"
+msgstr "Couldn't delete network"
+
+#: core/classes/class.ars_share.php:2352
+#: core/classes/class.ars_share.php:2443
+#@ arsocial_lite
+msgid "Please check your facebook details"
+msgstr "Please check your facebook details"
+
+#: core/classes/class.ars_share.php:2410
+#@ arsocial_lite
+msgid "Your access token is expired, Please issue new one."
+msgstr "Your access token is expired, Please issue new one."
+
+#: core/classes/class.ars_share.php:2421
+#@ arsocial_lite
+msgid "Invalid Application ID"
+msgstr "Invalid Application ID"
+
+#: core/classes/class.ars_share.php:2432
+#@ arsocial_lite
+msgid "Invalid Application Secret"
+msgstr "Invalid Application Secret"
+
+#: core/views/ars_fan_analytics.php:48
+#: core/views/ars_fan_counter.php:921
+#: core/views/ars_fan_counter_setting.php:2008
+#: core/views/ars_global_setting.php:586
+#: core/views/ars_like_setting.php:1508
+#: core/views/ars_locker.php:566
+#: core/views/ars_locker_analytics.php:47
+#: core/views/ars_locker_setting.php:782
+#: core/views/ars_share.php:772
+#: core/views/ars_share_setting.php:2439
+#: core/views/ars_shortcode.php:317
+#@ arsocial_lite
+msgid "Learn More"
+msgstr "Learn More"
+
+#: core/views/ars_fan_counter.php:631
+#: core/views/ars_fan_counter.php:670
+#: core/views/ars_fan_counter_setting.php:751
+#: core/views/ars_fan_counter_setting.php:965
+#: core/views/ars_like.php:499
+#: core/views/ars_like.php:521
+#: core/views/ars_like_setting.php:427
+#: core/views/ars_like_setting.php:588
+#: core/views/ars_share.php:622
+#: core/views/ars_share.php:652
+#: core/views/ars_share_setting.php:581
+#: core/views/ars_share_setting.php:863
+#@ arsocial_lite
+msgid "seconds"
+msgstr "seconds"
+
+#: core/views/ars_fan_counter.php:840
+#: core/views/ars_fan_counter.php:858
+#: core/views/ars_fan_counter_setting.php:641
+#: core/views/ars_fan_counter_setting.php:884
+#: core/views/ars_fan_counter_setting.php:1065
+#: core/views/ars_fan_counter_setting.php:1297
+#: core/views/ars_fan_counter_setting.php:1526
+#: core/views/ars_fan_counter_setting.php:1753
+#@ arsocial_lite
+msgid "Fans"
+msgstr "Fans"
+
+#: core/views/ars_global_setting.php:95
+#@ arsocial_lite
+msgid "Please enter Facebook APP id."
+msgstr "Please enter Facebook APP id."
+
+#: core/views/ars_global_setting.php:104
+#@ arsocial_lite
+msgid "App Secret"
+msgstr "App Secret"
+
+#: core/views/ars_global_setting.php:106
+#@ arsocial_lite
+msgid "Please enter Facebook App Secret."
+msgstr "Please enter Facebook App Secret."
+
+#: core/views/ars_global_setting.php:106
+#@ arsocial_lite
+msgid "Generate Token"
+msgstr "Generate Token"
+
+#: core/views/ars_global_setting.php:120
+#@ arsocial_lite
+msgid "Your token is expired. Please re-generate it."
+msgstr "Your token is expired. Please re-generate it."
+
+#: core/views/ars_global_setting.php:122
+#@ arsocial_lite
+msgid "Your token will be expire on"
+msgstr "Your token will be expire on"
+
+#: core/views/ars_global_setting.php:212
+#@ arsocial_lite
+msgid "Client ID"
+msgstr "Client ID"
+
+#: core/views/ars_global_setting.php:222
+#@ arsocial_lite
+msgid "Client Secret"
+msgstr "Client Secret"
+
+#: core/views/ars_global_setting.php:231
+#, php-format
+#@ arsocial_lite
+msgid "Please set %s as Redirect URLs in your LinkedIn application Auth settings."
+msgstr "Please set %s as Redirect URLs in your LinkedIn application Auth settings."
+
+#: core/views/ars_global_setting.php:289
+#@ arsocial_lite
+msgid "in minutes"
+msgstr "in minutes"
+
+#: core/views/ars_global_setting.php:396
+#@ arsocial_lite
+msgid "display site url,"
+msgstr "display site url,"
+
+#: core/views/ars_global_setting.php:397
+#@ arsocial_lite
+msgid "display site title,"
+msgstr "display site title,"
+
+#: core/views/ars_global_setting.php:398
+#@ arsocial_lite
+msgid "display current page url."
+msgstr "display current page url."
+
+#: social-share-and-social-locker-arsocial.php:851
+#@ arsocial_lite
+msgid "Ajax error while saving"
+msgstr "Ajax error while saving"
+
+#: social-share-and-social-locker-arsocial.php:852
+#@ arsocial_lite
+msgid "Please Select"
+msgstr "Please Select"
+
+#: social-share-and-social-locker-arsocial.php:853
+#@ arsocial_lite
+msgid "Ajax error while saving networks."
+msgstr "Ajax error while saving networks."
+
+#: social-share-and-social-locker-arsocial.php:854
+#@ arsocial_lite
+msgid "Invalid Locker."
+msgstr "Invalid Locker."
+
+#: social-share-and-social-locker-arsocial.php:855
+#@ arsocial_lite
+msgid "Invalid Shortcode."
+msgstr "Invalid Shortcode."
+
+#: social-share-and-social-locker-arsocial.php:856
+#@ arsocial_lite
+msgid "Please select action to perform"
+msgstr "Please select action to perform"
+

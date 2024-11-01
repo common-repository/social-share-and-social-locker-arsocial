@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#arsocial_lite_media_background_color").length>0&&jQuery("#arsocial_lite_media_background_color").wpColorPicker()});
